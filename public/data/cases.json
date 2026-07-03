@@ -1,0 +1,9882 @@
+[
+  {
+    "id": "cp-case-001",
+    "title": "学习平台案例1",
+    "description": "通过学习平台掌握项目开发",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "设计",
+        "description": "方案"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "交付",
+        "description": "部署"
+      }
+    ],
+    "relatedQuestionIds": [
+      "cp-q-001857",
+      "cp-q-003168",
+      "cp-q-000366"
+    ],
+    "tags": [
+      "学习平台"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-case-002",
+    "title": "在线考试案例2",
+    "description": "通过在线考试掌握项目开发",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "设计",
+        "description": "方案"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "交付",
+        "description": "部署"
+      }
+    ],
+    "relatedQuestionIds": [
+      "cp-q-002076",
+      "cp-q-001685",
+      "cp-q-003197"
+    ],
+    "tags": [
+      "在线考试"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-case-003",
+    "title": "个人知识库案例3",
+    "description": "通过个人知识库掌握项目开发",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "设计",
+        "description": "方案"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "交付",
+        "description": "部署"
+      }
+    ],
+    "relatedQuestionIds": [
+      "cp-q-000668",
+      "cp-q-000974",
+      "cp-q-001866"
+    ],
+    "tags": [
+      "个人知识库"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-case-004",
+    "title": "博客系统案例4",
+    "description": "通过博客系统掌握项目开发",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "设计",
+        "description": "方案"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "交付",
+        "description": "部署"
+      }
+    ],
+    "relatedQuestionIds": [
+      "cp-q-002111",
+      "cp-q-000778",
+      "cp-q-002064"
+    ],
+    "tags": [
+      "博客系统"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-case-005",
+    "title": "Todo应用案例5",
+    "description": "通过Todo应用掌握项目开发",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "设计",
+        "description": "方案"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "交付",
+        "description": "部署"
+      }
+    ],
+    "relatedQuestionIds": [
+      "cp-q-002179",
+      "cp-q-000252",
+      "cp-q-003028"
+    ],
+    "tags": [
+      "Todo应用"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-case-006",
+    "title": "图书管理案例6",
+    "description": "通过图书管理掌握项目开发",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "设计",
+        "description": "方案"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "交付",
+        "description": "部署"
+      }
+    ],
+    "relatedQuestionIds": [
+      "cp-q-002512",
+      "cp-q-001751",
+      "cp-q-001952"
+    ],
+    "tags": [
+      "图书管理"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-case-007",
+    "title": "电商后台案例7",
+    "description": "通过电商后台掌握项目开发",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "设计",
+        "description": "方案"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "交付",
+        "description": "部署"
+      }
+    ],
+    "relatedQuestionIds": [
+      "cp-q-001061",
+      "cp-q-001347",
+      "cp-q-000846"
+    ],
+    "tags": [
+      "电商后台"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-case-008",
+    "title": "校园二手案例8",
+    "description": "通过校园二手掌握项目开发",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "设计",
+        "description": "方案"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "交付",
+        "description": "部署"
+      }
+    ],
+    "relatedQuestionIds": [
+      "cp-q-001299",
+      "cp-q-003073",
+      "cp-q-002062"
+    ],
+    "tags": [
+      "校园二手"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-case-009",
+    "title": "课程表案例9",
+    "description": "通过课程表掌握项目开发",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "设计",
+        "description": "方案"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "交付",
+        "description": "部署"
+      }
+    ],
+    "relatedQuestionIds": [
+      "cp-q-002103",
+      "cp-q-002515",
+      "cp-q-000078"
+    ],
+    "tags": [
+      "课程表"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-case-010",
+    "title": "AI问答案例10",
+    "description": "通过AI问答掌握项目开发",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "设计",
+        "description": "方案"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "交付",
+        "description": "部署"
+      }
+    ],
+    "relatedQuestionIds": [
+      "cp-q-000916",
+      "cp-q-003252",
+      "cp-q-001676"
+    ],
+    "tags": [
+      "AI问答"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-case-011",
+    "title": "RAG知识库案例11",
+    "description": "通过RAG知识库掌握项目开发",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "设计",
+        "description": "方案"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "交付",
+        "description": "部署"
+      }
+    ],
+    "relatedQuestionIds": [
+      "cp-q-000803",
+      "cp-q-002023",
+      "cp-q-001550"
+    ],
+    "tags": [
+      "RAG知识库"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-case-012",
+    "title": "数据分析看板案例12",
+    "description": "通过数据分析看板掌握项目开发",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "设计",
+        "description": "方案"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "交付",
+        "description": "部署"
+      }
+    ],
+    "relatedQuestionIds": [
+      "cp-q-000501",
+      "cp-q-001650",
+      "cp-q-002182"
+    ],
+    "tags": [
+      "数据分析看板"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-case-013",
+    "title": "求职作品集案例13",
+    "description": "通过求职作品集掌握项目开发",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "设计",
+        "description": "方案"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "交付",
+        "description": "部署"
+      }
+    ],
+    "relatedQuestionIds": [
+      "cp-q-003430",
+      "cp-q-002585",
+      "cp-q-000169"
+    ],
+    "tags": [
+      "求职作品集"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-case-014",
+    "title": "记账App案例14",
+    "description": "通过记账App掌握项目开发",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "设计",
+        "description": "方案"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "交付",
+        "description": "部署"
+      }
+    ],
+    "relatedQuestionIds": [
+      "cp-q-001148",
+      "cp-q-002083",
+      "cp-q-000045"
+    ],
+    "tags": [
+      "记账App"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-case-015",
+    "title": "环境监测案例15",
+    "description": "通过环境监测掌握项目开发",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "设计",
+        "description": "方案"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "交付",
+        "description": "部署"
+      }
+    ],
+    "relatedQuestionIds": [
+      "cp-q-001407",
+      "cp-q-000761",
+      "cp-q-003281"
+    ],
+    "tags": [
+      "环境监测"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-case-016",
+    "title": "Docker部署案例16",
+    "description": "通过Docker部署掌握项目开发",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "设计",
+        "description": "方案"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "交付",
+        "description": "部署"
+      }
+    ],
+    "relatedQuestionIds": [
+      "cp-q-002131",
+      "cp-q-000274",
+      "cp-q-001386"
+    ],
+    "tags": [
+      "Docker部署"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-case-017",
+    "title": "毕设答辩案例17",
+    "description": "通过毕设答辩掌握项目开发",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "设计",
+        "description": "方案"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "交付",
+        "description": "部署"
+      }
+    ],
+    "relatedQuestionIds": [
+      "cp-q-001147",
+      "cp-q-001447",
+      "cp-q-002768"
+    ],
+    "tags": [
+      "毕设答辩"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-case-018",
+    "title": "项目面试案例18",
+    "description": "通过项目面试掌握项目开发",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "设计",
+        "description": "方案"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "交付",
+        "description": "部署"
+      }
+    ],
+    "relatedQuestionIds": [
+      "cp-q-002378",
+      "cp-q-002670",
+      "cp-q-001750"
+    ],
+    "tags": [
+      "项目面试"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-case-019",
+    "title": "学习平台案例19",
+    "description": "通过学习平台掌握项目开发",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "设计",
+        "description": "方案"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "交付",
+        "description": "部署"
+      }
+    ],
+    "relatedQuestionIds": [
+      "cp-q-003238",
+      "cp-q-001614",
+      "cp-q-001833"
+    ],
+    "tags": [
+      "学习平台"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-case-020",
+    "title": "在线考试案例20",
+    "description": "通过在线考试掌握项目开发",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "设计",
+        "description": "方案"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "交付",
+        "description": "部署"
+      }
+    ],
+    "relatedQuestionIds": [
+      "cp-q-000949",
+      "cp-q-001520",
+      "cp-q-000820"
+    ],
+    "tags": [
+      "在线考试"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-case-021",
+    "title": "个人知识库案例21",
+    "description": "通过个人知识库掌握项目开发",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "设计",
+        "description": "方案"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "交付",
+        "description": "部署"
+      }
+    ],
+    "relatedQuestionIds": [
+      "cp-q-001995",
+      "cp-q-000910",
+      "cp-q-001313"
+    ],
+    "tags": [
+      "个人知识库"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-case-022",
+    "title": "博客系统案例22",
+    "description": "通过博客系统掌握项目开发",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "设计",
+        "description": "方案"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "交付",
+        "description": "部署"
+      }
+    ],
+    "relatedQuestionIds": [
+      "cp-q-003123",
+      "cp-q-001745",
+      "cp-q-001947"
+    ],
+    "tags": [
+      "博客系统"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-case-023",
+    "title": "Todo应用案例23",
+    "description": "通过Todo应用掌握项目开发",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "设计",
+        "description": "方案"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "交付",
+        "description": "部署"
+      }
+    ],
+    "relatedQuestionIds": [
+      "cp-q-001606",
+      "cp-q-000138",
+      "cp-q-000010"
+    ],
+    "tags": [
+      "Todo应用"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-case-024",
+    "title": "图书管理案例24",
+    "description": "通过图书管理掌握项目开发",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "设计",
+        "description": "方案"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "交付",
+        "description": "部署"
+      }
+    ],
+    "relatedQuestionIds": [
+      "cp-q-000466",
+      "cp-q-001621",
+      "cp-q-003290"
+    ],
+    "tags": [
+      "图书管理"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-case-025",
+    "title": "电商后台案例25",
+    "description": "通过电商后台掌握项目开发",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "设计",
+        "description": "方案"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "交付",
+        "description": "部署"
+      }
+    ],
+    "relatedQuestionIds": [
+      "cp-q-001896",
+      "cp-q-000598",
+      "cp-q-002588"
+    ],
+    "tags": [
+      "电商后台"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-case-026",
+    "title": "校园二手案例26",
+    "description": "通过校园二手掌握项目开发",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "设计",
+        "description": "方案"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "交付",
+        "description": "部署"
+      }
+    ],
+    "relatedQuestionIds": [
+      "cp-q-003175",
+      "cp-q-001455",
+      "cp-q-001850"
+    ],
+    "tags": [
+      "校园二手"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-case-027",
+    "title": "课程表案例27",
+    "description": "通过课程表掌握项目开发",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "设计",
+        "description": "方案"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "交付",
+        "description": "部署"
+      }
+    ],
+    "relatedQuestionIds": [
+      "cp-q-000958",
+      "cp-q-001822",
+      "cp-q-002902"
+    ],
+    "tags": [
+      "课程表"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-case-028",
+    "title": "AI问答案例28",
+    "description": "通过AI问答掌握项目开发",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "设计",
+        "description": "方案"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "交付",
+        "description": "部署"
+      }
+    ],
+    "relatedQuestionIds": [
+      "cp-q-001968",
+      "cp-q-001252",
+      "cp-q-002460"
+    ],
+    "tags": [
+      "AI问答"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-case-029",
+    "title": "RAG知识库案例29",
+    "description": "通过RAG知识库掌握项目开发",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "设计",
+        "description": "方案"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "交付",
+        "description": "部署"
+      }
+    ],
+    "relatedQuestionIds": [
+      "cp-q-000693",
+      "cp-q-001116",
+      "cp-q-001774"
+    ],
+    "tags": [
+      "RAG知识库"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-case-030",
+    "title": "数据分析看板案例30",
+    "description": "通过数据分析看板掌握项目开发",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "设计",
+        "description": "方案"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "交付",
+        "description": "部署"
+      }
+    ],
+    "relatedQuestionIds": [
+      "cp-q-003361",
+      "cp-q-002268",
+      "cp-q-000138"
+    ],
+    "tags": [
+      "数据分析看板"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-case-031",
+    "title": "求职作品集案例31",
+    "description": "通过求职作品集掌握项目开发",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "设计",
+        "description": "方案"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "交付",
+        "description": "部署"
+      }
+    ],
+    "relatedQuestionIds": [
+      "cp-q-002419",
+      "cp-q-000267",
+      "cp-q-002421"
+    ],
+    "tags": [
+      "求职作品集"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-case-032",
+    "title": "记账App案例32",
+    "description": "通过记账App掌握项目开发",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "设计",
+        "description": "方案"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "交付",
+        "description": "部署"
+      }
+    ],
+    "relatedQuestionIds": [
+      "cp-q-002043",
+      "cp-q-001447",
+      "cp-q-000923"
+    ],
+    "tags": [
+      "记账App"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-case-033",
+    "title": "环境监测案例33",
+    "description": "通过环境监测掌握项目开发",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "设计",
+        "description": "方案"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "交付",
+        "description": "部署"
+      }
+    ],
+    "relatedQuestionIds": [
+      "cp-q-002417",
+      "cp-q-001741",
+      "cp-q-000208"
+    ],
+    "tags": [
+      "环境监测"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-case-034",
+    "title": "Docker部署案例34",
+    "description": "通过Docker部署掌握项目开发",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "设计",
+        "description": "方案"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "交付",
+        "description": "部署"
+      }
+    ],
+    "relatedQuestionIds": [
+      "cp-q-001785",
+      "cp-q-003326",
+      "cp-q-002152"
+    ],
+    "tags": [
+      "Docker部署"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-case-035",
+    "title": "毕设答辩案例35",
+    "description": "通过毕设答辩掌握项目开发",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "设计",
+        "description": "方案"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "交付",
+        "description": "部署"
+      }
+    ],
+    "relatedQuestionIds": [
+      "cp-q-003278",
+      "cp-q-003020",
+      "cp-q-002025"
+    ],
+    "tags": [
+      "毕设答辩"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-case-036",
+    "title": "项目面试案例36",
+    "description": "通过项目面试掌握项目开发",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "设计",
+        "description": "方案"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "交付",
+        "description": "部署"
+      }
+    ],
+    "relatedQuestionIds": [
+      "cp-q-001900",
+      "cp-q-001152",
+      "cp-q-002719"
+    ],
+    "tags": [
+      "项目面试"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-case-037",
+    "title": "学习平台案例37",
+    "description": "通过学习平台掌握项目开发",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "设计",
+        "description": "方案"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "交付",
+        "description": "部署"
+      }
+    ],
+    "relatedQuestionIds": [
+      "cp-q-002228",
+      "cp-q-000089",
+      "cp-q-002636"
+    ],
+    "tags": [
+      "学习平台"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-case-038",
+    "title": "在线考试案例38",
+    "description": "通过在线考试掌握项目开发",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "设计",
+        "description": "方案"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "交付",
+        "description": "部署"
+      }
+    ],
+    "relatedQuestionIds": [
+      "cp-q-001049",
+      "cp-q-000497",
+      "cp-q-000882"
+    ],
+    "tags": [
+      "在线考试"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-case-039",
+    "title": "个人知识库案例39",
+    "description": "通过个人知识库掌握项目开发",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "设计",
+        "description": "方案"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "交付",
+        "description": "部署"
+      }
+    ],
+    "relatedQuestionIds": [
+      "cp-q-000979",
+      "cp-q-003315",
+      "cp-q-001689"
+    ],
+    "tags": [
+      "个人知识库"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-case-040",
+    "title": "博客系统案例40",
+    "description": "通过博客系统掌握项目开发",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "设计",
+        "description": "方案"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "交付",
+        "description": "部署"
+      }
+    ],
+    "relatedQuestionIds": [
+      "cp-q-003152",
+      "cp-q-002249",
+      "cp-q-002781"
+    ],
+    "tags": [
+      "博客系统"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-case-041",
+    "title": "Todo应用案例41",
+    "description": "通过Todo应用掌握项目开发",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "设计",
+        "description": "方案"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "交付",
+        "description": "部署"
+      }
+    ],
+    "relatedQuestionIds": [
+      "cp-q-001061",
+      "cp-q-002635",
+      "cp-q-000534"
+    ],
+    "tags": [
+      "Todo应用"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-case-042",
+    "title": "图书管理案例42",
+    "description": "通过图书管理掌握项目开发",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "设计",
+        "description": "方案"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "交付",
+        "description": "部署"
+      }
+    ],
+    "relatedQuestionIds": [
+      "cp-q-001129",
+      "cp-q-000992",
+      "cp-q-001582"
+    ],
+    "tags": [
+      "图书管理"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-case-043",
+    "title": "电商后台案例43",
+    "description": "通过电商后台掌握项目开发",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "设计",
+        "description": "方案"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "交付",
+        "description": "部署"
+      }
+    ],
+    "relatedQuestionIds": [
+      "cp-q-003339",
+      "cp-q-001874",
+      "cp-q-001755"
+    ],
+    "tags": [
+      "电商后台"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-case-044",
+    "title": "校园二手案例44",
+    "description": "通过校园二手掌握项目开发",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "设计",
+        "description": "方案"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "交付",
+        "description": "部署"
+      }
+    ],
+    "relatedQuestionIds": [
+      "cp-q-003400",
+      "cp-q-001088",
+      "cp-q-000446"
+    ],
+    "tags": [
+      "校园二手"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-case-045",
+    "title": "课程表案例45",
+    "description": "通过课程表掌握项目开发",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "设计",
+        "description": "方案"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "交付",
+        "description": "部署"
+      }
+    ],
+    "relatedQuestionIds": [
+      "cp-q-002479",
+      "cp-q-002171",
+      "cp-q-000064"
+    ],
+    "tags": [
+      "课程表"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-case-046",
+    "title": "AI问答案例46",
+    "description": "通过AI问答掌握项目开发",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "设计",
+        "description": "方案"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "交付",
+        "description": "部署"
+      }
+    ],
+    "relatedQuestionIds": [
+      "cp-q-001695",
+      "cp-q-002636",
+      "cp-q-002486"
+    ],
+    "tags": [
+      "AI问答"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-case-047",
+    "title": "RAG知识库案例47",
+    "description": "通过RAG知识库掌握项目开发",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "设计",
+        "description": "方案"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "交付",
+        "description": "部署"
+      }
+    ],
+    "relatedQuestionIds": [
+      "cp-q-001529",
+      "cp-q-000414",
+      "cp-q-000979"
+    ],
+    "tags": [
+      "RAG知识库"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-case-048",
+    "title": "数据分析看板案例48",
+    "description": "通过数据分析看板掌握项目开发",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "设计",
+        "description": "方案"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "交付",
+        "description": "部署"
+      }
+    ],
+    "relatedQuestionIds": [
+      "cp-q-001014",
+      "cp-q-002936",
+      "cp-q-002659"
+    ],
+    "tags": [
+      "数据分析看板"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-case-049",
+    "title": "求职作品集案例49",
+    "description": "通过求职作品集掌握项目开发",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "设计",
+        "description": "方案"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "交付",
+        "description": "部署"
+      }
+    ],
+    "relatedQuestionIds": [
+      "cp-q-002749",
+      "cp-q-002677",
+      "cp-q-000913"
+    ],
+    "tags": [
+      "求职作品集"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-case-050",
+    "title": "记账App案例50",
+    "description": "通过记账App掌握项目开发",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "设计",
+        "description": "方案"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "交付",
+        "description": "部署"
+      }
+    ],
+    "relatedQuestionIds": [
+      "cp-q-000445",
+      "cp-q-002045",
+      "cp-q-002917"
+    ],
+    "tags": [
+      "记账App"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-case-051",
+    "title": "环境监测案例51",
+    "description": "通过环境监测掌握项目开发",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "设计",
+        "description": "方案"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "交付",
+        "description": "部署"
+      }
+    ],
+    "relatedQuestionIds": [
+      "cp-q-003059",
+      "cp-q-002574",
+      "cp-q-003297"
+    ],
+    "tags": [
+      "环境监测"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-case-052",
+    "title": "Docker部署案例52",
+    "description": "通过Docker部署掌握项目开发",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "设计",
+        "description": "方案"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "交付",
+        "description": "部署"
+      }
+    ],
+    "relatedQuestionIds": [
+      "cp-q-003362",
+      "cp-q-001563",
+      "cp-q-000125"
+    ],
+    "tags": [
+      "Docker部署"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-case-053",
+    "title": "毕设答辩案例53",
+    "description": "通过毕设答辩掌握项目开发",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "设计",
+        "description": "方案"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "交付",
+        "description": "部署"
+      }
+    ],
+    "relatedQuestionIds": [
+      "cp-q-000948",
+      "cp-q-001509",
+      "cp-q-001771"
+    ],
+    "tags": [
+      "毕设答辩"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-case-054",
+    "title": "项目面试案例54",
+    "description": "通过项目面试掌握项目开发",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "设计",
+        "description": "方案"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "交付",
+        "description": "部署"
+      }
+    ],
+    "relatedQuestionIds": [
+      "cp-q-002319",
+      "cp-q-000673",
+      "cp-q-000557"
+    ],
+    "tags": [
+      "项目面试"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-case-055",
+    "title": "学习平台案例55",
+    "description": "通过学习平台掌握项目开发",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "设计",
+        "description": "方案"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "交付",
+        "description": "部署"
+      }
+    ],
+    "relatedQuestionIds": [
+      "cp-q-003296",
+      "cp-q-002133",
+      "cp-q-001351"
+    ],
+    "tags": [
+      "学习平台"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-case-056",
+    "title": "在线考试案例56",
+    "description": "通过在线考试掌握项目开发",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "设计",
+        "description": "方案"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "交付",
+        "description": "部署"
+      }
+    ],
+    "relatedQuestionIds": [
+      "cp-q-002455",
+      "cp-q-002119",
+      "cp-q-000088"
+    ],
+    "tags": [
+      "在线考试"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-case-057",
+    "title": "个人知识库案例57",
+    "description": "通过个人知识库掌握项目开发",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "设计",
+        "description": "方案"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "交付",
+        "description": "部署"
+      }
+    ],
+    "relatedQuestionIds": [
+      "cp-q-000704",
+      "cp-q-003093",
+      "cp-q-000597"
+    ],
+    "tags": [
+      "个人知识库"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-case-058",
+    "title": "博客系统案例58",
+    "description": "通过博客系统掌握项目开发",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "设计",
+        "description": "方案"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "交付",
+        "description": "部署"
+      }
+    ],
+    "relatedQuestionIds": [
+      "cp-q-001192",
+      "cp-q-003038",
+      "cp-q-002550"
+    ],
+    "tags": [
+      "博客系统"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-case-059",
+    "title": "Todo应用案例59",
+    "description": "通过Todo应用掌握项目开发",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "设计",
+        "description": "方案"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "交付",
+        "description": "部署"
+      }
+    ],
+    "relatedQuestionIds": [
+      "cp-q-002986",
+      "cp-q-002286",
+      "cp-q-000373"
+    ],
+    "tags": [
+      "Todo应用"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-case-060",
+    "title": "图书管理案例60",
+    "description": "通过图书管理掌握项目开发",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "设计",
+        "description": "方案"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "交付",
+        "description": "部署"
+      }
+    ],
+    "relatedQuestionIds": [
+      "cp-q-001569",
+      "cp-q-000042",
+      "cp-q-001556"
+    ],
+    "tags": [
+      "图书管理"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-case-061",
+    "title": "电商后台案例61",
+    "description": "通过电商后台掌握项目开发",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "设计",
+        "description": "方案"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "交付",
+        "description": "部署"
+      }
+    ],
+    "relatedQuestionIds": [
+      "cp-q-001991",
+      "cp-q-002896",
+      "cp-q-000583"
+    ],
+    "tags": [
+      "电商后台"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-case-062",
+    "title": "校园二手案例62",
+    "description": "通过校园二手掌握项目开发",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "设计",
+        "description": "方案"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "交付",
+        "description": "部署"
+      }
+    ],
+    "relatedQuestionIds": [
+      "cp-q-003036",
+      "cp-q-002647",
+      "cp-q-002635"
+    ],
+    "tags": [
+      "校园二手"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-case-063",
+    "title": "课程表案例63",
+    "description": "通过课程表掌握项目开发",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "设计",
+        "description": "方案"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "交付",
+        "description": "部署"
+      }
+    ],
+    "relatedQuestionIds": [
+      "cp-q-002616",
+      "cp-q-003334",
+      "cp-q-001263"
+    ],
+    "tags": [
+      "课程表"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-case-064",
+    "title": "AI问答案例64",
+    "description": "通过AI问答掌握项目开发",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "设计",
+        "description": "方案"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "交付",
+        "description": "部署"
+      }
+    ],
+    "relatedQuestionIds": [
+      "cp-q-002335",
+      "cp-q-003448",
+      "cp-q-001657"
+    ],
+    "tags": [
+      "AI问答"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-case-065",
+    "title": "RAG知识库案例65",
+    "description": "通过RAG知识库掌握项目开发",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "设计",
+        "description": "方案"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "交付",
+        "description": "部署"
+      }
+    ],
+    "relatedQuestionIds": [
+      "cp-q-001426",
+      "cp-q-000157",
+      "cp-q-001989"
+    ],
+    "tags": [
+      "RAG知识库"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-case-066",
+    "title": "数据分析看板案例66",
+    "description": "通过数据分析看板掌握项目开发",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "设计",
+        "description": "方案"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "交付",
+        "description": "部署"
+      }
+    ],
+    "relatedQuestionIds": [
+      "cp-q-000128",
+      "cp-q-001941",
+      "cp-q-002165"
+    ],
+    "tags": [
+      "数据分析看板"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-case-067",
+    "title": "求职作品集案例67",
+    "description": "通过求职作品集掌握项目开发",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "设计",
+        "description": "方案"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "交付",
+        "description": "部署"
+      }
+    ],
+    "relatedQuestionIds": [
+      "cp-q-002372",
+      "cp-q-000630",
+      "cp-q-001227"
+    ],
+    "tags": [
+      "求职作品集"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-case-068",
+    "title": "记账App案例68",
+    "description": "通过记账App掌握项目开发",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "设计",
+        "description": "方案"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "交付",
+        "description": "部署"
+      }
+    ],
+    "relatedQuestionIds": [
+      "cp-q-003009",
+      "cp-q-001405",
+      "cp-q-001196"
+    ],
+    "tags": [
+      "记账App"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-case-069",
+    "title": "环境监测案例69",
+    "description": "通过环境监测掌握项目开发",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "设计",
+        "description": "方案"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "交付",
+        "description": "部署"
+      }
+    ],
+    "relatedQuestionIds": [
+      "cp-q-003433",
+      "cp-q-000643",
+      "cp-q-003330"
+    ],
+    "tags": [
+      "环境监测"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-case-070",
+    "title": "Docker部署案例70",
+    "description": "通过Docker部署掌握项目开发",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "设计",
+        "description": "方案"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "交付",
+        "description": "部署"
+      }
+    ],
+    "relatedQuestionIds": [
+      "cp-q-003362",
+      "cp-q-001722",
+      "cp-q-002416"
+    ],
+    "tags": [
+      "Docker部署"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-case-071",
+    "title": "毕设答辩案例71",
+    "description": "通过毕设答辩掌握项目开发",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "设计",
+        "description": "方案"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "交付",
+        "description": "部署"
+      }
+    ],
+    "relatedQuestionIds": [
+      "cp-q-001595",
+      "cp-q-000365",
+      "cp-q-000353"
+    ],
+    "tags": [
+      "毕设答辩"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-case-072",
+    "title": "项目面试案例72",
+    "description": "通过项目面试掌握项目开发",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "设计",
+        "description": "方案"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "交付",
+        "description": "部署"
+      }
+    ],
+    "relatedQuestionIds": [
+      "cp-q-001732",
+      "cp-q-000552",
+      "cp-q-002117"
+    ],
+    "tags": [
+      "项目面试"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-case-073",
+    "title": "学习平台案例73",
+    "description": "通过学习平台掌握项目开发",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "设计",
+        "description": "方案"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "交付",
+        "description": "部署"
+      }
+    ],
+    "relatedQuestionIds": [
+      "cp-q-002783",
+      "cp-q-003095",
+      "cp-q-003079"
+    ],
+    "tags": [
+      "学习平台"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-case-074",
+    "title": "在线考试案例74",
+    "description": "通过在线考试掌握项目开发",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "设计",
+        "description": "方案"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "交付",
+        "description": "部署"
+      }
+    ],
+    "relatedQuestionIds": [
+      "cp-q-002793",
+      "cp-q-001442",
+      "cp-q-000614"
+    ],
+    "tags": [
+      "在线考试"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-case-075",
+    "title": "个人知识库案例75",
+    "description": "通过个人知识库掌握项目开发",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "设计",
+        "description": "方案"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "交付",
+        "description": "部署"
+      }
+    ],
+    "relatedQuestionIds": [
+      "cp-q-000700",
+      "cp-q-000232",
+      "cp-q-002454"
+    ],
+    "tags": [
+      "个人知识库"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-case-076",
+    "title": "博客系统案例76",
+    "description": "通过博客系统掌握项目开发",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "设计",
+        "description": "方案"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "交付",
+        "description": "部署"
+      }
+    ],
+    "relatedQuestionIds": [
+      "cp-q-000770",
+      "cp-q-000063",
+      "cp-q-002607"
+    ],
+    "tags": [
+      "博客系统"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-case-077",
+    "title": "Todo应用案例77",
+    "description": "通过Todo应用掌握项目开发",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "设计",
+        "description": "方案"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "交付",
+        "description": "部署"
+      }
+    ],
+    "relatedQuestionIds": [
+      "cp-q-002124",
+      "cp-q-000918",
+      "cp-q-002939"
+    ],
+    "tags": [
+      "Todo应用"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-case-078",
+    "title": "图书管理案例78",
+    "description": "通过图书管理掌握项目开发",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "设计",
+        "description": "方案"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "交付",
+        "description": "部署"
+      }
+    ],
+    "relatedQuestionIds": [
+      "cp-q-001553",
+      "cp-q-000550",
+      "cp-q-002949"
+    ],
+    "tags": [
+      "图书管理"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-case-079",
+    "title": "电商后台案例79",
+    "description": "通过电商后台掌握项目开发",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "设计",
+        "description": "方案"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "交付",
+        "description": "部署"
+      }
+    ],
+    "relatedQuestionIds": [
+      "cp-q-003110",
+      "cp-q-001698",
+      "cp-q-000636"
+    ],
+    "tags": [
+      "电商后台"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-case-080",
+    "title": "校园二手案例80",
+    "description": "通过校园二手掌握项目开发",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "设计",
+        "description": "方案"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "交付",
+        "description": "部署"
+      }
+    ],
+    "relatedQuestionIds": [
+      "cp-q-001722",
+      "cp-q-000193",
+      "cp-q-000164"
+    ],
+    "tags": [
+      "校园二手"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-case-081",
+    "title": "课程表案例81",
+    "description": "通过课程表掌握项目开发",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "设计",
+        "description": "方案"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "交付",
+        "description": "部署"
+      }
+    ],
+    "relatedQuestionIds": [
+      "cp-q-001884",
+      "cp-q-001152",
+      "cp-q-001476"
+    ],
+    "tags": [
+      "课程表"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-case-082",
+    "title": "AI问答案例82",
+    "description": "通过AI问答掌握项目开发",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "设计",
+        "description": "方案"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "交付",
+        "description": "部署"
+      }
+    ],
+    "relatedQuestionIds": [
+      "cp-q-000926",
+      "cp-q-002901",
+      "cp-q-001688"
+    ],
+    "tags": [
+      "AI问答"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-case-083",
+    "title": "RAG知识库案例83",
+    "description": "通过RAG知识库掌握项目开发",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "设计",
+        "description": "方案"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "交付",
+        "description": "部署"
+      }
+    ],
+    "relatedQuestionIds": [
+      "cp-q-002001",
+      "cp-q-002842",
+      "cp-q-001302"
+    ],
+    "tags": [
+      "RAG知识库"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-case-084",
+    "title": "数据分析看板案例84",
+    "description": "通过数据分析看板掌握项目开发",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "设计",
+        "description": "方案"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "交付",
+        "description": "部署"
+      }
+    ],
+    "relatedQuestionIds": [
+      "cp-q-000513",
+      "cp-q-002010",
+      "cp-q-002141"
+    ],
+    "tags": [
+      "数据分析看板"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-case-085",
+    "title": "求职作品集案例85",
+    "description": "通过求职作品集掌握项目开发",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "设计",
+        "description": "方案"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "交付",
+        "description": "部署"
+      }
+    ],
+    "relatedQuestionIds": [
+      "cp-q-001607",
+      "cp-q-000589",
+      "cp-q-000924"
+    ],
+    "tags": [
+      "求职作品集"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-case-086",
+    "title": "记账App案例86",
+    "description": "通过记账App掌握项目开发",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "设计",
+        "description": "方案"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "交付",
+        "description": "部署"
+      }
+    ],
+    "relatedQuestionIds": [
+      "cp-q-002316",
+      "cp-q-003101",
+      "cp-q-001027"
+    ],
+    "tags": [
+      "记账App"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-case-087",
+    "title": "环境监测案例87",
+    "description": "通过环境监测掌握项目开发",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "设计",
+        "description": "方案"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "交付",
+        "description": "部署"
+      }
+    ],
+    "relatedQuestionIds": [
+      "cp-q-002396",
+      "cp-q-001129",
+      "cp-q-001187"
+    ],
+    "tags": [
+      "环境监测"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-case-088",
+    "title": "Docker部署案例88",
+    "description": "通过Docker部署掌握项目开发",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "设计",
+        "description": "方案"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "交付",
+        "description": "部署"
+      }
+    ],
+    "relatedQuestionIds": [
+      "cp-q-000274",
+      "cp-q-003347",
+      "cp-q-002345"
+    ],
+    "tags": [
+      "Docker部署"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-case-089",
+    "title": "毕设答辩案例89",
+    "description": "通过毕设答辩掌握项目开发",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "设计",
+        "description": "方案"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "交付",
+        "description": "部署"
+      }
+    ],
+    "relatedQuestionIds": [
+      "cp-q-000200",
+      "cp-q-003162",
+      "cp-q-003087"
+    ],
+    "tags": [
+      "毕设答辩"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-case-090",
+    "title": "项目面试案例90",
+    "description": "通过项目面试掌握项目开发",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "设计",
+        "description": "方案"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "交付",
+        "description": "部署"
+      }
+    ],
+    "relatedQuestionIds": [
+      "cp-q-001693",
+      "cp-q-003230",
+      "cp-q-003229"
+    ],
+    "tags": [
+      "项目面试"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-case-091",
+    "title": "学习平台案例91",
+    "description": "通过学习平台掌握项目开发",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "设计",
+        "description": "方案"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "交付",
+        "description": "部署"
+      }
+    ],
+    "relatedQuestionIds": [
+      "cp-q-000306",
+      "cp-q-001425",
+      "cp-q-000082"
+    ],
+    "tags": [
+      "学习平台"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-case-092",
+    "title": "在线考试案例92",
+    "description": "通过在线考试掌握项目开发",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "设计",
+        "description": "方案"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "交付",
+        "description": "部署"
+      }
+    ],
+    "relatedQuestionIds": [
+      "cp-q-000593",
+      "cp-q-001057",
+      "cp-q-001356"
+    ],
+    "tags": [
+      "在线考试"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-case-093",
+    "title": "个人知识库案例93",
+    "description": "通过个人知识库掌握项目开发",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "设计",
+        "description": "方案"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "交付",
+        "description": "部署"
+      }
+    ],
+    "relatedQuestionIds": [
+      "cp-q-002036",
+      "cp-q-000206",
+      "cp-q-002010"
+    ],
+    "tags": [
+      "个人知识库"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-case-094",
+    "title": "博客系统案例94",
+    "description": "通过博客系统掌握项目开发",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "设计",
+        "description": "方案"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "交付",
+        "description": "部署"
+      }
+    ],
+    "relatedQuestionIds": [
+      "cp-q-002450",
+      "cp-q-000449",
+      "cp-q-002659"
+    ],
+    "tags": [
+      "博客系统"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-case-095",
+    "title": "Todo应用案例95",
+    "description": "通过Todo应用掌握项目开发",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "设计",
+        "description": "方案"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "交付",
+        "description": "部署"
+      }
+    ],
+    "relatedQuestionIds": [
+      "cp-q-002454",
+      "cp-q-001882",
+      "cp-q-000118"
+    ],
+    "tags": [
+      "Todo应用"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-case-096",
+    "title": "图书管理案例96",
+    "description": "通过图书管理掌握项目开发",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "设计",
+        "description": "方案"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "交付",
+        "description": "部署"
+      }
+    ],
+    "relatedQuestionIds": [
+      "cp-q-003176",
+      "cp-q-002909",
+      "cp-q-002657"
+    ],
+    "tags": [
+      "图书管理"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-case-097",
+    "title": "电商后台案例97",
+    "description": "通过电商后台掌握项目开发",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "设计",
+        "description": "方案"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "交付",
+        "description": "部署"
+      }
+    ],
+    "relatedQuestionIds": [
+      "cp-q-003198",
+      "cp-q-000932",
+      "cp-q-002811"
+    ],
+    "tags": [
+      "电商后台"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-case-098",
+    "title": "校园二手案例98",
+    "description": "通过校园二手掌握项目开发",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "设计",
+        "description": "方案"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "交付",
+        "description": "部署"
+      }
+    ],
+    "relatedQuestionIds": [
+      "cp-q-001698",
+      "cp-q-001080",
+      "cp-q-000058"
+    ],
+    "tags": [
+      "校园二手"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-case-099",
+    "title": "课程表案例99",
+    "description": "通过课程表掌握项目开发",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "设计",
+        "description": "方案"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "交付",
+        "description": "部署"
+      }
+    ],
+    "relatedQuestionIds": [
+      "cp-q-001830",
+      "cp-q-000667",
+      "cp-q-001914"
+    ],
+    "tags": [
+      "课程表"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-case-100",
+    "title": "AI问答案例100",
+    "description": "通过AI问答掌握项目开发",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "设计",
+        "description": "方案"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "交付",
+        "description": "部署"
+      }
+    ],
+    "relatedQuestionIds": [
+      "cp-q-003238",
+      "cp-q-001089",
+      "cp-q-001284"
+    ],
+    "tags": [
+      "AI问答"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-case-101",
+    "title": "RAG知识库案例101",
+    "description": "通过RAG知识库掌握项目开发",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "设计",
+        "description": "方案"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "交付",
+        "description": "部署"
+      }
+    ],
+    "relatedQuestionIds": [
+      "cp-q-000660",
+      "cp-q-000760",
+      "cp-q-000639"
+    ],
+    "tags": [
+      "RAG知识库"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-case-102",
+    "title": "数据分析看板案例102",
+    "description": "通过数据分析看板掌握项目开发",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "设计",
+        "description": "方案"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "交付",
+        "description": "部署"
+      }
+    ],
+    "relatedQuestionIds": [
+      "cp-q-001213",
+      "cp-q-003031",
+      "cp-q-002237"
+    ],
+    "tags": [
+      "数据分析看板"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-case-103",
+    "title": "求职作品集案例103",
+    "description": "通过求职作品集掌握项目开发",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "设计",
+        "description": "方案"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "交付",
+        "description": "部署"
+      }
+    ],
+    "relatedQuestionIds": [
+      "cp-q-000198",
+      "cp-q-001797",
+      "cp-q-001341"
+    ],
+    "tags": [
+      "求职作品集"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-case-104",
+    "title": "记账App案例104",
+    "description": "通过记账App掌握项目开发",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "设计",
+        "description": "方案"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "交付",
+        "description": "部署"
+      }
+    ],
+    "relatedQuestionIds": [
+      "cp-q-000348",
+      "cp-q-000412",
+      "cp-q-001141"
+    ],
+    "tags": [
+      "记账App"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-case-105",
+    "title": "环境监测案例105",
+    "description": "通过环境监测掌握项目开发",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "设计",
+        "description": "方案"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "交付",
+        "description": "部署"
+      }
+    ],
+    "relatedQuestionIds": [
+      "cp-q-001875",
+      "cp-q-002406",
+      "cp-q-001159"
+    ],
+    "tags": [
+      "环境监测"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-case-106",
+    "title": "Docker部署案例106",
+    "description": "通过Docker部署掌握项目开发",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "设计",
+        "description": "方案"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "交付",
+        "description": "部署"
+      }
+    ],
+    "relatedQuestionIds": [
+      "cp-q-001831",
+      "cp-q-003340",
+      "cp-q-001779"
+    ],
+    "tags": [
+      "Docker部署"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-case-107",
+    "title": "毕设答辩案例107",
+    "description": "通过毕设答辩掌握项目开发",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "设计",
+        "description": "方案"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "交付",
+        "description": "部署"
+      }
+    ],
+    "relatedQuestionIds": [
+      "cp-q-002951",
+      "cp-q-002564",
+      "cp-q-002722"
+    ],
+    "tags": [
+      "毕设答辩"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-case-108",
+    "title": "项目面试案例108",
+    "description": "通过项目面试掌握项目开发",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "设计",
+        "description": "方案"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "交付",
+        "description": "部署"
+      }
+    ],
+    "relatedQuestionIds": [
+      "cp-q-002911",
+      "cp-q-001533",
+      "cp-q-002799"
+    ],
+    "tags": [
+      "项目面试"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-case-109",
+    "title": "学习平台案例109",
+    "description": "通过学习平台掌握项目开发",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "设计",
+        "description": "方案"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "交付",
+        "description": "部署"
+      }
+    ],
+    "relatedQuestionIds": [
+      "cp-q-003210",
+      "cp-q-002838",
+      "cp-q-001034"
+    ],
+    "tags": [
+      "学习平台"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-case-110",
+    "title": "在线考试案例110",
+    "description": "通过在线考试掌握项目开发",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "设计",
+        "description": "方案"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "交付",
+        "description": "部署"
+      }
+    ],
+    "relatedQuestionIds": [
+      "cp-q-000468",
+      "cp-q-000471",
+      "cp-q-003158"
+    ],
+    "tags": [
+      "在线考试"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-case-111",
+    "title": "个人知识库案例111",
+    "description": "通过个人知识库掌握项目开发",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "设计",
+        "description": "方案"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "交付",
+        "description": "部署"
+      }
+    ],
+    "relatedQuestionIds": [
+      "cp-q-000923",
+      "cp-q-001120",
+      "cp-q-000714"
+    ],
+    "tags": [
+      "个人知识库"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-case-112",
+    "title": "博客系统案例112",
+    "description": "通过博客系统掌握项目开发",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "设计",
+        "description": "方案"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "交付",
+        "description": "部署"
+      }
+    ],
+    "relatedQuestionIds": [
+      "cp-q-000709",
+      "cp-q-000499",
+      "cp-q-001664"
+    ],
+    "tags": [
+      "博客系统"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-case-113",
+    "title": "Todo应用案例113",
+    "description": "通过Todo应用掌握项目开发",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "设计",
+        "description": "方案"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "交付",
+        "description": "部署"
+      }
+    ],
+    "relatedQuestionIds": [
+      "cp-q-002623",
+      "cp-q-000856",
+      "cp-q-003313"
+    ],
+    "tags": [
+      "Todo应用"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-case-114",
+    "title": "图书管理案例114",
+    "description": "通过图书管理掌握项目开发",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "设计",
+        "description": "方案"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "交付",
+        "description": "部署"
+      }
+    ],
+    "relatedQuestionIds": [
+      "cp-q-002796",
+      "cp-q-000126",
+      "cp-q-001635"
+    ],
+    "tags": [
+      "图书管理"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-case-115",
+    "title": "电商后台案例115",
+    "description": "通过电商后台掌握项目开发",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "设计",
+        "description": "方案"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "交付",
+        "description": "部署"
+      }
+    ],
+    "relatedQuestionIds": [
+      "cp-q-002635",
+      "cp-q-000688",
+      "cp-q-001217"
+    ],
+    "tags": [
+      "电商后台"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-case-116",
+    "title": "校园二手案例116",
+    "description": "通过校园二手掌握项目开发",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "设计",
+        "description": "方案"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "交付",
+        "description": "部署"
+      }
+    ],
+    "relatedQuestionIds": [
+      "cp-q-000493",
+      "cp-q-000764",
+      "cp-q-000696"
+    ],
+    "tags": [
+      "校园二手"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-case-117",
+    "title": "课程表案例117",
+    "description": "通过课程表掌握项目开发",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "设计",
+        "description": "方案"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "交付",
+        "description": "部署"
+      }
+    ],
+    "relatedQuestionIds": [
+      "cp-q-000457",
+      "cp-q-002472",
+      "cp-q-000596"
+    ],
+    "tags": [
+      "课程表"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-case-118",
+    "title": "AI问答案例118",
+    "description": "通过AI问答掌握项目开发",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "设计",
+        "description": "方案"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "交付",
+        "description": "部署"
+      }
+    ],
+    "relatedQuestionIds": [
+      "cp-q-000179",
+      "cp-q-001381",
+      "cp-q-000467"
+    ],
+    "tags": [
+      "AI问答"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-case-119",
+    "title": "RAG知识库案例119",
+    "description": "通过RAG知识库掌握项目开发",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "设计",
+        "description": "方案"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "交付",
+        "description": "部署"
+      }
+    ],
+    "relatedQuestionIds": [
+      "cp-q-001299",
+      "cp-q-002504",
+      "cp-q-000483"
+    ],
+    "tags": [
+      "RAG知识库"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-case-120",
+    "title": "数据分析看板案例120",
+    "description": "通过数据分析看板掌握项目开发",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "设计",
+        "description": "方案"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "交付",
+        "description": "部署"
+      }
+    ],
+    "relatedQuestionIds": [
+      "cp-q-003198",
+      "cp-q-000477",
+      "cp-q-001614"
+    ],
+    "tags": [
+      "数据分析看板"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-case-121",
+    "title": "求职作品集案例121",
+    "description": "通过求职作品集掌握项目开发",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "设计",
+        "description": "方案"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "交付",
+        "description": "部署"
+      }
+    ],
+    "relatedQuestionIds": [
+      "cp-q-002089",
+      "cp-q-002329",
+      "cp-q-001085"
+    ],
+    "tags": [
+      "求职作品集"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-case-122",
+    "title": "记账App案例122",
+    "description": "通过记账App掌握项目开发",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "设计",
+        "description": "方案"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "交付",
+        "description": "部署"
+      }
+    ],
+    "relatedQuestionIds": [
+      "cp-q-002456",
+      "cp-q-002653",
+      "cp-q-002769"
+    ],
+    "tags": [
+      "记账App"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-case-123",
+    "title": "环境监测案例123",
+    "description": "通过环境监测掌握项目开发",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "设计",
+        "description": "方案"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "交付",
+        "description": "部署"
+      }
+    ],
+    "relatedQuestionIds": [
+      "cp-q-002908",
+      "cp-q-000814",
+      "cp-q-001610"
+    ],
+    "tags": [
+      "环境监测"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-case-124",
+    "title": "Docker部署案例124",
+    "description": "通过Docker部署掌握项目开发",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "设计",
+        "description": "方案"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "交付",
+        "description": "部署"
+      }
+    ],
+    "relatedQuestionIds": [
+      "cp-q-001125",
+      "cp-q-000966",
+      "cp-q-003183"
+    ],
+    "tags": [
+      "Docker部署"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-case-125",
+    "title": "毕设答辩案例125",
+    "description": "通过毕设答辩掌握项目开发",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "设计",
+        "description": "方案"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "交付",
+        "description": "部署"
+      }
+    ],
+    "relatedQuestionIds": [
+      "cp-q-002865",
+      "cp-q-003219",
+      "cp-q-002839"
+    ],
+    "tags": [
+      "毕设答辩"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-case-126",
+    "title": "项目面试案例126",
+    "description": "通过项目面试掌握项目开发",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "设计",
+        "description": "方案"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "交付",
+        "description": "部署"
+      }
+    ],
+    "relatedQuestionIds": [
+      "cp-q-000225",
+      "cp-q-002390",
+      "cp-q-002393"
+    ],
+    "tags": [
+      "项目面试"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-case-127",
+    "title": "学习平台案例127",
+    "description": "通过学习平台掌握项目开发",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "设计",
+        "description": "方案"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "交付",
+        "description": "部署"
+      }
+    ],
+    "relatedQuestionIds": [
+      "cp-q-001094",
+      "cp-q-002364",
+      "cp-q-001557"
+    ],
+    "tags": [
+      "学习平台"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-case-128",
+    "title": "在线考试案例128",
+    "description": "通过在线考试掌握项目开发",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "设计",
+        "description": "方案"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "交付",
+        "description": "部署"
+      }
+    ],
+    "relatedQuestionIds": [
+      "cp-q-002519",
+      "cp-q-002809",
+      "cp-q-001528"
+    ],
+    "tags": [
+      "在线考试"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-case-129",
+    "title": "个人知识库案例129",
+    "description": "通过个人知识库掌握项目开发",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "设计",
+        "description": "方案"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "交付",
+        "description": "部署"
+      }
+    ],
+    "relatedQuestionIds": [
+      "cp-q-001005",
+      "cp-q-001379",
+      "cp-q-001680"
+    ],
+    "tags": [
+      "个人知识库"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-case-130",
+    "title": "博客系统案例130",
+    "description": "通过博客系统掌握项目开发",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "设计",
+        "description": "方案"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "交付",
+        "description": "部署"
+      }
+    ],
+    "relatedQuestionIds": [
+      "cp-q-003092",
+      "cp-q-001556",
+      "cp-q-000596"
+    ],
+    "tags": [
+      "博客系统"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-case-131",
+    "title": "Todo应用案例131",
+    "description": "通过Todo应用掌握项目开发",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "设计",
+        "description": "方案"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "交付",
+        "description": "部署"
+      }
+    ],
+    "relatedQuestionIds": [
+      "cp-q-003258",
+      "cp-q-002877",
+      "cp-q-003030"
+    ],
+    "tags": [
+      "Todo应用"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-case-132",
+    "title": "图书管理案例132",
+    "description": "通过图书管理掌握项目开发",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "设计",
+        "description": "方案"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "交付",
+        "description": "部署"
+      }
+    ],
+    "relatedQuestionIds": [
+      "cp-q-002867",
+      "cp-q-002844",
+      "cp-q-002499"
+    ],
+    "tags": [
+      "图书管理"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-case-133",
+    "title": "电商后台案例133",
+    "description": "通过电商后台掌握项目开发",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "设计",
+        "description": "方案"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "交付",
+        "description": "部署"
+      }
+    ],
+    "relatedQuestionIds": [
+      "cp-q-001712",
+      "cp-q-000952",
+      "cp-q-002202"
+    ],
+    "tags": [
+      "电商后台"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-case-134",
+    "title": "校园二手案例134",
+    "description": "通过校园二手掌握项目开发",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "设计",
+        "description": "方案"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "交付",
+        "description": "部署"
+      }
+    ],
+    "relatedQuestionIds": [
+      "cp-q-001208",
+      "cp-q-000485",
+      "cp-q-001646"
+    ],
+    "tags": [
+      "校园二手"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-case-135",
+    "title": "课程表案例135",
+    "description": "通过课程表掌握项目开发",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "设计",
+        "description": "方案"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "交付",
+        "description": "部署"
+      }
+    ],
+    "relatedQuestionIds": [
+      "cp-q-002316",
+      "cp-q-002580",
+      "cp-q-001052"
+    ],
+    "tags": [
+      "课程表"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-case-136",
+    "title": "AI问答案例136",
+    "description": "通过AI问答掌握项目开发",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "设计",
+        "description": "方案"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "交付",
+        "description": "部署"
+      }
+    ],
+    "relatedQuestionIds": [
+      "cp-q-002043",
+      "cp-q-002463",
+      "cp-q-003005"
+    ],
+    "tags": [
+      "AI问答"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-case-137",
+    "title": "RAG知识库案例137",
+    "description": "通过RAG知识库掌握项目开发",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "设计",
+        "description": "方案"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "交付",
+        "description": "部署"
+      }
+    ],
+    "relatedQuestionIds": [
+      "cp-q-002031",
+      "cp-q-000998",
+      "cp-q-001516"
+    ],
+    "tags": [
+      "RAG知识库"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-case-138",
+    "title": "数据分析看板案例138",
+    "description": "通过数据分析看板掌握项目开发",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "设计",
+        "description": "方案"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "交付",
+        "description": "部署"
+      }
+    ],
+    "relatedQuestionIds": [
+      "cp-q-002284",
+      "cp-q-001765",
+      "cp-q-002671"
+    ],
+    "tags": [
+      "数据分析看板"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-case-139",
+    "title": "求职作品集案例139",
+    "description": "通过求职作品集掌握项目开发",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "设计",
+        "description": "方案"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "交付",
+        "description": "部署"
+      }
+    ],
+    "relatedQuestionIds": [
+      "cp-q-001654",
+      "cp-q-002131",
+      "cp-q-001154"
+    ],
+    "tags": [
+      "求职作品集"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-case-140",
+    "title": "记账App案例140",
+    "description": "通过记账App掌握项目开发",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "设计",
+        "description": "方案"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "交付",
+        "description": "部署"
+      }
+    ],
+    "relatedQuestionIds": [
+      "cp-q-002033",
+      "cp-q-002467",
+      "cp-q-000715"
+    ],
+    "tags": [
+      "记账App"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-case-141",
+    "title": "环境监测案例141",
+    "description": "通过环境监测掌握项目开发",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "设计",
+        "description": "方案"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "交付",
+        "description": "部署"
+      }
+    ],
+    "relatedQuestionIds": [
+      "cp-q-002052",
+      "cp-q-002137",
+      "cp-q-001635"
+    ],
+    "tags": [
+      "环境监测"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-case-142",
+    "title": "Docker部署案例142",
+    "description": "通过Docker部署掌握项目开发",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "设计",
+        "description": "方案"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "交付",
+        "description": "部署"
+      }
+    ],
+    "relatedQuestionIds": [
+      "cp-q-001209",
+      "cp-q-002720",
+      "cp-q-001732"
+    ],
+    "tags": [
+      "Docker部署"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-case-143",
+    "title": "毕设答辩案例143",
+    "description": "通过毕设答辩掌握项目开发",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "设计",
+        "description": "方案"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "交付",
+        "description": "部署"
+      }
+    ],
+    "relatedQuestionIds": [
+      "cp-q-002979",
+      "cp-q-001630",
+      "cp-q-003026"
+    ],
+    "tags": [
+      "毕设答辩"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-case-144",
+    "title": "项目面试案例144",
+    "description": "通过项目面试掌握项目开发",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "设计",
+        "description": "方案"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "交付",
+        "description": "部署"
+      }
+    ],
+    "relatedQuestionIds": [
+      "cp-q-001988",
+      "cp-q-003405",
+      "cp-q-003146"
+    ],
+    "tags": [
+      "项目面试"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-case-145",
+    "title": "学习平台案例145",
+    "description": "通过学习平台掌握项目开发",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "设计",
+        "description": "方案"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "交付",
+        "description": "部署"
+      }
+    ],
+    "relatedQuestionIds": [
+      "cp-q-001460",
+      "cp-q-002683",
+      "cp-q-001960"
+    ],
+    "tags": [
+      "学习平台"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-case-146",
+    "title": "在线考试案例146",
+    "description": "通过在线考试掌握项目开发",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "设计",
+        "description": "方案"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "交付",
+        "description": "部署"
+      }
+    ],
+    "relatedQuestionIds": [
+      "cp-q-003153",
+      "cp-q-000277",
+      "cp-q-003487"
+    ],
+    "tags": [
+      "在线考试"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-case-147",
+    "title": "个人知识库案例147",
+    "description": "通过个人知识库掌握项目开发",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "设计",
+        "description": "方案"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "交付",
+        "description": "部署"
+      }
+    ],
+    "relatedQuestionIds": [
+      "cp-q-003245",
+      "cp-q-001422",
+      "cp-q-002641"
+    ],
+    "tags": [
+      "个人知识库"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-case-148",
+    "title": "博客系统案例148",
+    "description": "通过博客系统掌握项目开发",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "设计",
+        "description": "方案"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "交付",
+        "description": "部署"
+      }
+    ],
+    "relatedQuestionIds": [
+      "cp-q-002022",
+      "cp-q-002049",
+      "cp-q-000005"
+    ],
+    "tags": [
+      "博客系统"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-case-149",
+    "title": "Todo应用案例149",
+    "description": "通过Todo应用掌握项目开发",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "设计",
+        "description": "方案"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "交付",
+        "description": "部署"
+      }
+    ],
+    "relatedQuestionIds": [
+      "cp-q-002275",
+      "cp-q-003435",
+      "cp-q-003089"
+    ],
+    "tags": [
+      "Todo应用"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-case-150",
+    "title": "图书管理案例150",
+    "description": "通过图书管理掌握项目开发",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "设计",
+        "description": "方案"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "交付",
+        "description": "部署"
+      }
+    ],
+    "relatedQuestionIds": [
+      "cp-q-001519",
+      "cp-q-002521",
+      "cp-q-002507"
+    ],
+    "tags": [
+      "图书管理"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-case-151",
+    "title": "电商后台案例151",
+    "description": "通过电商后台掌握项目开发",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "设计",
+        "description": "方案"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "交付",
+        "description": "部署"
+      }
+    ],
+    "relatedQuestionIds": [
+      "cp-q-002132",
+      "cp-q-001243",
+      "cp-q-001458"
+    ],
+    "tags": [
+      "电商后台"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-case-152",
+    "title": "校园二手案例152",
+    "description": "通过校园二手掌握项目开发",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "设计",
+        "description": "方案"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "交付",
+        "description": "部署"
+      }
+    ],
+    "relatedQuestionIds": [
+      "cp-q-001020",
+      "cp-q-002718",
+      "cp-q-000381"
+    ],
+    "tags": [
+      "校园二手"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-case-153",
+    "title": "课程表案例153",
+    "description": "通过课程表掌握项目开发",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "设计",
+        "description": "方案"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "交付",
+        "description": "部署"
+      }
+    ],
+    "relatedQuestionIds": [
+      "cp-q-000449",
+      "cp-q-002931",
+      "cp-q-001284"
+    ],
+    "tags": [
+      "课程表"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-case-154",
+    "title": "AI问答案例154",
+    "description": "通过AI问答掌握项目开发",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "设计",
+        "description": "方案"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "交付",
+        "description": "部署"
+      }
+    ],
+    "relatedQuestionIds": [
+      "cp-q-001419",
+      "cp-q-001789",
+      "cp-q-001131"
+    ],
+    "tags": [
+      "AI问答"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-case-155",
+    "title": "RAG知识库案例155",
+    "description": "通过RAG知识库掌握项目开发",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "设计",
+        "description": "方案"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "交付",
+        "description": "部署"
+      }
+    ],
+    "relatedQuestionIds": [
+      "cp-q-000534",
+      "cp-q-001200",
+      "cp-q-000654"
+    ],
+    "tags": [
+      "RAG知识库"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-case-156",
+    "title": "数据分析看板案例156",
+    "description": "通过数据分析看板掌握项目开发",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "设计",
+        "description": "方案"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "交付",
+        "description": "部署"
+      }
+    ],
+    "relatedQuestionIds": [
+      "cp-q-001348",
+      "cp-q-001598",
+      "cp-q-000338"
+    ],
+    "tags": [
+      "数据分析看板"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-case-157",
+    "title": "求职作品集案例157",
+    "description": "通过求职作品集掌握项目开发",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "设计",
+        "description": "方案"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "交付",
+        "description": "部署"
+      }
+    ],
+    "relatedQuestionIds": [
+      "cp-q-001817",
+      "cp-q-002349",
+      "cp-q-001211"
+    ],
+    "tags": [
+      "求职作品集"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-case-158",
+    "title": "记账App案例158",
+    "description": "通过记账App掌握项目开发",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "设计",
+        "description": "方案"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "交付",
+        "description": "部署"
+      }
+    ],
+    "relatedQuestionIds": [
+      "cp-q-001272",
+      "cp-q-000717",
+      "cp-q-002194"
+    ],
+    "tags": [
+      "记账App"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-case-159",
+    "title": "环境监测案例159",
+    "description": "通过环境监测掌握项目开发",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "设计",
+        "description": "方案"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "交付",
+        "description": "部署"
+      }
+    ],
+    "relatedQuestionIds": [
+      "cp-q-000392",
+      "cp-q-001565",
+      "cp-q-001316"
+    ],
+    "tags": [
+      "环境监测"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-case-160",
+    "title": "Docker部署案例160",
+    "description": "通过Docker部署掌握项目开发",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "设计",
+        "description": "方案"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "交付",
+        "description": "部署"
+      }
+    ],
+    "relatedQuestionIds": [
+      "cp-q-003415",
+      "cp-q-000699",
+      "cp-q-000422"
+    ],
+    "tags": [
+      "Docker部署"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-case-161",
+    "title": "毕设答辩案例161",
+    "description": "通过毕设答辩掌握项目开发",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "设计",
+        "description": "方案"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "交付",
+        "description": "部署"
+      }
+    ],
+    "relatedQuestionIds": [
+      "cp-q-002245",
+      "cp-q-002878",
+      "cp-q-000733"
+    ],
+    "tags": [
+      "毕设答辩"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-case-162",
+    "title": "项目面试案例162",
+    "description": "通过项目面试掌握项目开发",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "设计",
+        "description": "方案"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "交付",
+        "description": "部署"
+      }
+    ],
+    "relatedQuestionIds": [
+      "cp-q-001309",
+      "cp-q-001070",
+      "cp-q-002705"
+    ],
+    "tags": [
+      "项目面试"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-case-163",
+    "title": "学习平台案例163",
+    "description": "通过学习平台掌握项目开发",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "设计",
+        "description": "方案"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "交付",
+        "description": "部署"
+      }
+    ],
+    "relatedQuestionIds": [
+      "cp-q-001140",
+      "cp-q-001597",
+      "cp-q-001986"
+    ],
+    "tags": [
+      "学习平台"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-case-164",
+    "title": "在线考试案例164",
+    "description": "通过在线考试掌握项目开发",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "设计",
+        "description": "方案"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "交付",
+        "description": "部署"
+      }
+    ],
+    "relatedQuestionIds": [
+      "cp-q-001739",
+      "cp-q-003210",
+      "cp-q-001041"
+    ],
+    "tags": [
+      "在线考试"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-case-165",
+    "title": "个人知识库案例165",
+    "description": "通过个人知识库掌握项目开发",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "设计",
+        "description": "方案"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "交付",
+        "description": "部署"
+      }
+    ],
+    "relatedQuestionIds": [
+      "cp-q-002924",
+      "cp-q-000154",
+      "cp-q-000327"
+    ],
+    "tags": [
+      "个人知识库"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-case-166",
+    "title": "博客系统案例166",
+    "description": "通过博客系统掌握项目开发",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "设计",
+        "description": "方案"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "交付",
+        "description": "部署"
+      }
+    ],
+    "relatedQuestionIds": [
+      "cp-q-002773",
+      "cp-q-002934",
+      "cp-q-002931"
+    ],
+    "tags": [
+      "博客系统"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-case-167",
+    "title": "Todo应用案例167",
+    "description": "通过Todo应用掌握项目开发",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "设计",
+        "description": "方案"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "交付",
+        "description": "部署"
+      }
+    ],
+    "relatedQuestionIds": [
+      "cp-q-002867",
+      "cp-q-001956",
+      "cp-q-002132"
+    ],
+    "tags": [
+      "Todo应用"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-case-168",
+    "title": "图书管理案例168",
+    "description": "通过图书管理掌握项目开发",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "设计",
+        "description": "方案"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "交付",
+        "description": "部署"
+      }
+    ],
+    "relatedQuestionIds": [
+      "cp-q-001426",
+      "cp-q-002884",
+      "cp-q-000560"
+    ],
+    "tags": [
+      "图书管理"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-case-169",
+    "title": "电商后台案例169",
+    "description": "通过电商后台掌握项目开发",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "设计",
+        "description": "方案"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "交付",
+        "description": "部署"
+      }
+    ],
+    "relatedQuestionIds": [
+      "cp-q-000589",
+      "cp-q-002511",
+      "cp-q-000361"
+    ],
+    "tags": [
+      "电商后台"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-case-170",
+    "title": "校园二手案例170",
+    "description": "通过校园二手掌握项目开发",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "设计",
+        "description": "方案"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "交付",
+        "description": "部署"
+      }
+    ],
+    "relatedQuestionIds": [
+      "cp-q-002372",
+      "cp-q-001218",
+      "cp-q-003111"
+    ],
+    "tags": [
+      "校园二手"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-case-171",
+    "title": "课程表案例171",
+    "description": "通过课程表掌握项目开发",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "设计",
+        "description": "方案"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "交付",
+        "description": "部署"
+      }
+    ],
+    "relatedQuestionIds": [
+      "cp-q-001845",
+      "cp-q-001626",
+      "cp-q-003245"
+    ],
+    "tags": [
+      "课程表"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-case-172",
+    "title": "AI问答案例172",
+    "description": "通过AI问答掌握项目开发",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "设计",
+        "description": "方案"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "交付",
+        "description": "部署"
+      }
+    ],
+    "relatedQuestionIds": [
+      "cp-q-000212",
+      "cp-q-001181",
+      "cp-q-003063"
+    ],
+    "tags": [
+      "AI问答"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-case-173",
+    "title": "RAG知识库案例173",
+    "description": "通过RAG知识库掌握项目开发",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "设计",
+        "description": "方案"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "交付",
+        "description": "部署"
+      }
+    ],
+    "relatedQuestionIds": [
+      "cp-q-001516",
+      "cp-q-000949",
+      "cp-q-002970"
+    ],
+    "tags": [
+      "RAG知识库"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-case-174",
+    "title": "数据分析看板案例174",
+    "description": "通过数据分析看板掌握项目开发",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "设计",
+        "description": "方案"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "交付",
+        "description": "部署"
+      }
+    ],
+    "relatedQuestionIds": [
+      "cp-q-000536",
+      "cp-q-001553",
+      "cp-q-003005"
+    ],
+    "tags": [
+      "数据分析看板"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-case-175",
+    "title": "求职作品集案例175",
+    "description": "通过求职作品集掌握项目开发",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "设计",
+        "description": "方案"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "交付",
+        "description": "部署"
+      }
+    ],
+    "relatedQuestionIds": [
+      "cp-q-000290",
+      "cp-q-002758",
+      "cp-q-000543"
+    ],
+    "tags": [
+      "求职作品集"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-case-176",
+    "title": "记账App案例176",
+    "description": "通过记账App掌握项目开发",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "设计",
+        "description": "方案"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "交付",
+        "description": "部署"
+      }
+    ],
+    "relatedQuestionIds": [
+      "cp-q-003126",
+      "cp-q-001880",
+      "cp-q-002015"
+    ],
+    "tags": [
+      "记账App"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-case-177",
+    "title": "环境监测案例177",
+    "description": "通过环境监测掌握项目开发",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "设计",
+        "description": "方案"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "交付",
+        "description": "部署"
+      }
+    ],
+    "relatedQuestionIds": [
+      "cp-q-002787",
+      "cp-q-001129",
+      "cp-q-001081"
+    ],
+    "tags": [
+      "环境监测"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-case-178",
+    "title": "Docker部署案例178",
+    "description": "通过Docker部署掌握项目开发",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "设计",
+        "description": "方案"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "交付",
+        "description": "部署"
+      }
+    ],
+    "relatedQuestionIds": [
+      "cp-q-002731",
+      "cp-q-000700",
+      "cp-q-002460"
+    ],
+    "tags": [
+      "Docker部署"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-case-179",
+    "title": "毕设答辩案例179",
+    "description": "通过毕设答辩掌握项目开发",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "设计",
+        "description": "方案"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "交付",
+        "description": "部署"
+      }
+    ],
+    "relatedQuestionIds": [
+      "cp-q-001638",
+      "cp-q-001035",
+      "cp-q-000406"
+    ],
+    "tags": [
+      "毕设答辩"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-case-180",
+    "title": "项目面试案例180",
+    "description": "通过项目面试掌握项目开发",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "设计",
+        "description": "方案"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "交付",
+        "description": "部署"
+      }
+    ],
+    "relatedQuestionIds": [
+      "cp-q-002932",
+      "cp-q-002798",
+      "cp-q-001512"
+    ],
+    "tags": [
+      "项目面试"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-case-181",
+    "title": "学习平台案例181",
+    "description": "通过学习平台掌握项目开发",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "设计",
+        "description": "方案"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "交付",
+        "description": "部署"
+      }
+    ],
+    "relatedQuestionIds": [
+      "cp-q-003030",
+      "cp-q-003381",
+      "cp-q-003324"
+    ],
+    "tags": [
+      "学习平台"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-case-182",
+    "title": "在线考试案例182",
+    "description": "通过在线考试掌握项目开发",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "设计",
+        "description": "方案"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "交付",
+        "description": "部署"
+      }
+    ],
+    "relatedQuestionIds": [
+      "cp-q-002132",
+      "cp-q-000548",
+      "cp-q-000292"
+    ],
+    "tags": [
+      "在线考试"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-case-183",
+    "title": "个人知识库案例183",
+    "description": "通过个人知识库掌握项目开发",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "设计",
+        "description": "方案"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "交付",
+        "description": "部署"
+      }
+    ],
+    "relatedQuestionIds": [
+      "cp-q-002048",
+      "cp-q-000409",
+      "cp-q-001488"
+    ],
+    "tags": [
+      "个人知识库"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-case-184",
+    "title": "博客系统案例184",
+    "description": "通过博客系统掌握项目开发",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "设计",
+        "description": "方案"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "交付",
+        "description": "部署"
+      }
+    ],
+    "relatedQuestionIds": [
+      "cp-q-002339",
+      "cp-q-001640",
+      "cp-q-003157"
+    ],
+    "tags": [
+      "博客系统"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-case-185",
+    "title": "Todo应用案例185",
+    "description": "通过Todo应用掌握项目开发",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "设计",
+        "description": "方案"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "交付",
+        "description": "部署"
+      }
+    ],
+    "relatedQuestionIds": [
+      "cp-q-002529",
+      "cp-q-002319",
+      "cp-q-002138"
+    ],
+    "tags": [
+      "Todo应用"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-case-186",
+    "title": "图书管理案例186",
+    "description": "通过图书管理掌握项目开发",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "设计",
+        "description": "方案"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "交付",
+        "description": "部署"
+      }
+    ],
+    "relatedQuestionIds": [
+      "cp-q-002522",
+      "cp-q-000347",
+      "cp-q-000182"
+    ],
+    "tags": [
+      "图书管理"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-case-187",
+    "title": "电商后台案例187",
+    "description": "通过电商后台掌握项目开发",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "设计",
+        "description": "方案"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "交付",
+        "description": "部署"
+      }
+    ],
+    "relatedQuestionIds": [
+      "cp-q-002200",
+      "cp-q-000808",
+      "cp-q-000088"
+    ],
+    "tags": [
+      "电商后台"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-case-188",
+    "title": "校园二手案例188",
+    "description": "通过校园二手掌握项目开发",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "设计",
+        "description": "方案"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "交付",
+        "description": "部署"
+      }
+    ],
+    "relatedQuestionIds": [
+      "cp-q-001543",
+      "cp-q-002431",
+      "cp-q-001043"
+    ],
+    "tags": [
+      "校园二手"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-case-189",
+    "title": "课程表案例189",
+    "description": "通过课程表掌握项目开发",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "设计",
+        "description": "方案"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "交付",
+        "description": "部署"
+      }
+    ],
+    "relatedQuestionIds": [
+      "cp-q-002312",
+      "cp-q-001394",
+      "cp-q-003039"
+    ],
+    "tags": [
+      "课程表"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-case-190",
+    "title": "AI问答案例190",
+    "description": "通过AI问答掌握项目开发",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "设计",
+        "description": "方案"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "交付",
+        "description": "部署"
+      }
+    ],
+    "relatedQuestionIds": [
+      "cp-q-000460",
+      "cp-q-001416",
+      "cp-q-003453"
+    ],
+    "tags": [
+      "AI问答"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-case-191",
+    "title": "RAG知识库案例191",
+    "description": "通过RAG知识库掌握项目开发",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "设计",
+        "description": "方案"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "交付",
+        "description": "部署"
+      }
+    ],
+    "relatedQuestionIds": [
+      "cp-q-001983",
+      "cp-q-003162",
+      "cp-q-002926"
+    ],
+    "tags": [
+      "RAG知识库"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-case-192",
+    "title": "数据分析看板案例192",
+    "description": "通过数据分析看板掌握项目开发",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "设计",
+        "description": "方案"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "交付",
+        "description": "部署"
+      }
+    ],
+    "relatedQuestionIds": [
+      "cp-q-001290",
+      "cp-q-000579",
+      "cp-q-000875"
+    ],
+    "tags": [
+      "数据分析看板"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-case-193",
+    "title": "求职作品集案例193",
+    "description": "通过求职作品集掌握项目开发",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "设计",
+        "description": "方案"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "交付",
+        "description": "部署"
+      }
+    ],
+    "relatedQuestionIds": [
+      "cp-q-000385",
+      "cp-q-002077",
+      "cp-q-000674"
+    ],
+    "tags": [
+      "求职作品集"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-case-194",
+    "title": "记账App案例194",
+    "description": "通过记账App掌握项目开发",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "设计",
+        "description": "方案"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "交付",
+        "description": "部署"
+      }
+    ],
+    "relatedQuestionIds": [
+      "cp-q-002829",
+      "cp-q-001552",
+      "cp-q-002113"
+    ],
+    "tags": [
+      "记账App"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-case-195",
+    "title": "环境监测案例195",
+    "description": "通过环境监测掌握项目开发",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "设计",
+        "description": "方案"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "交付",
+        "description": "部署"
+      }
+    ],
+    "relatedQuestionIds": [
+      "cp-q-002118",
+      "cp-q-001103",
+      "cp-q-000213"
+    ],
+    "tags": [
+      "环境监测"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-case-196",
+    "title": "Docker部署案例196",
+    "description": "通过Docker部署掌握项目开发",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "设计",
+        "description": "方案"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "交付",
+        "description": "部署"
+      }
+    ],
+    "relatedQuestionIds": [
+      "cp-q-002165",
+      "cp-q-001745",
+      "cp-q-001307"
+    ],
+    "tags": [
+      "Docker部署"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-case-197",
+    "title": "毕设答辩案例197",
+    "description": "通过毕设答辩掌握项目开发",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "设计",
+        "description": "方案"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "交付",
+        "description": "部署"
+      }
+    ],
+    "relatedQuestionIds": [
+      "cp-q-001115",
+      "cp-q-000166",
+      "cp-q-000677"
+    ],
+    "tags": [
+      "毕设答辩"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-case-198",
+    "title": "项目面试案例198",
+    "description": "通过项目面试掌握项目开发",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "设计",
+        "description": "方案"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "交付",
+        "description": "部署"
+      }
+    ],
+    "relatedQuestionIds": [
+      "cp-q-002998",
+      "cp-q-003019",
+      "cp-q-001251"
+    ],
+    "tags": [
+      "项目面试"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-case-199",
+    "title": "学习平台案例199",
+    "description": "通过学习平台掌握项目开发",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "设计",
+        "description": "方案"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "交付",
+        "description": "部署"
+      }
+    ],
+    "relatedQuestionIds": [
+      "cp-q-000165",
+      "cp-q-002218",
+      "cp-q-003221"
+    ],
+    "tags": [
+      "学习平台"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-case-200",
+    "title": "在线考试案例200",
+    "description": "通过在线考试掌握项目开发",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "设计",
+        "description": "方案"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "交付",
+        "description": "部署"
+      }
+    ],
+    "relatedQuestionIds": [
+      "cp-q-003108",
+      "cp-q-003495",
+      "cp-q-001805"
+    ],
+    "tags": [
+      "在线考试"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-case-201",
+    "title": "个人知识库案例201",
+    "description": "通过个人知识库掌握项目开发",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "设计",
+        "description": "方案"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "交付",
+        "description": "部署"
+      }
+    ],
+    "relatedQuestionIds": [
+      "cp-q-001576",
+      "cp-q-002062",
+      "cp-q-001121"
+    ],
+    "tags": [
+      "个人知识库"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-case-202",
+    "title": "博客系统案例202",
+    "description": "通过博客系统掌握项目开发",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "设计",
+        "description": "方案"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "交付",
+        "description": "部署"
+      }
+    ],
+    "relatedQuestionIds": [
+      "cp-q-002909",
+      "cp-q-001567",
+      "cp-q-001663"
+    ],
+    "tags": [
+      "博客系统"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-case-203",
+    "title": "Todo应用案例203",
+    "description": "通过Todo应用掌握项目开发",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "设计",
+        "description": "方案"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "交付",
+        "description": "部署"
+      }
+    ],
+    "relatedQuestionIds": [
+      "cp-q-002045",
+      "cp-q-002079",
+      "cp-q-000048"
+    ],
+    "tags": [
+      "Todo应用"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-case-204",
+    "title": "图书管理案例204",
+    "description": "通过图书管理掌握项目开发",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "设计",
+        "description": "方案"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "交付",
+        "description": "部署"
+      }
+    ],
+    "relatedQuestionIds": [
+      "cp-q-001138",
+      "cp-q-003390",
+      "cp-q-002280"
+    ],
+    "tags": [
+      "图书管理"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-case-205",
+    "title": "电商后台案例205",
+    "description": "通过电商后台掌握项目开发",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "设计",
+        "description": "方案"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "交付",
+        "description": "部署"
+      }
+    ],
+    "relatedQuestionIds": [
+      "cp-q-000620",
+      "cp-q-002357",
+      "cp-q-001516"
+    ],
+    "tags": [
+      "电商后台"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-case-206",
+    "title": "校园二手案例206",
+    "description": "通过校园二手掌握项目开发",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "设计",
+        "description": "方案"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "交付",
+        "description": "部署"
+      }
+    ],
+    "relatedQuestionIds": [
+      "cp-q-003492",
+      "cp-q-000526",
+      "cp-q-002464"
+    ],
+    "tags": [
+      "校园二手"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-case-207",
+    "title": "课程表案例207",
+    "description": "通过课程表掌握项目开发",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "设计",
+        "description": "方案"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "交付",
+        "description": "部署"
+      }
+    ],
+    "relatedQuestionIds": [
+      "cp-q-001235",
+      "cp-q-003134",
+      "cp-q-003105"
+    ],
+    "tags": [
+      "课程表"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-case-208",
+    "title": "AI问答案例208",
+    "description": "通过AI问答掌握项目开发",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "设计",
+        "description": "方案"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "交付",
+        "description": "部署"
+      }
+    ],
+    "relatedQuestionIds": [
+      "cp-q-001083",
+      "cp-q-001351",
+      "cp-q-002644"
+    ],
+    "tags": [
+      "AI问答"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-case-209",
+    "title": "RAG知识库案例209",
+    "description": "通过RAG知识库掌握项目开发",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "设计",
+        "description": "方案"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "交付",
+        "description": "部署"
+      }
+    ],
+    "relatedQuestionIds": [
+      "cp-q-001905",
+      "cp-q-003225",
+      "cp-q-000554"
+    ],
+    "tags": [
+      "RAG知识库"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-case-210",
+    "title": "数据分析看板案例210",
+    "description": "通过数据分析看板掌握项目开发",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "设计",
+        "description": "方案"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "交付",
+        "description": "部署"
+      }
+    ],
+    "relatedQuestionIds": [
+      "cp-q-002447",
+      "cp-q-000265",
+      "cp-q-001660"
+    ],
+    "tags": [
+      "数据分析看板"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-case-211",
+    "title": "求职作品集案例211",
+    "description": "通过求职作品集掌握项目开发",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "设计",
+        "description": "方案"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "交付",
+        "description": "部署"
+      }
+    ],
+    "relatedQuestionIds": [
+      "cp-q-001452",
+      "cp-q-002518",
+      "cp-q-002057"
+    ],
+    "tags": [
+      "求职作品集"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-case-212",
+    "title": "记账App案例212",
+    "description": "通过记账App掌握项目开发",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "设计",
+        "description": "方案"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "交付",
+        "description": "部署"
+      }
+    ],
+    "relatedQuestionIds": [
+      "cp-q-000221",
+      "cp-q-000982",
+      "cp-q-000473"
+    ],
+    "tags": [
+      "记账App"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-case-213",
+    "title": "环境监测案例213",
+    "description": "通过环境监测掌握项目开发",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "设计",
+        "description": "方案"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "交付",
+        "description": "部署"
+      }
+    ],
+    "relatedQuestionIds": [
+      "cp-q-000058",
+      "cp-q-002042",
+      "cp-q-002105"
+    ],
+    "tags": [
+      "环境监测"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-case-214",
+    "title": "Docker部署案例214",
+    "description": "通过Docker部署掌握项目开发",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "设计",
+        "description": "方案"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "交付",
+        "description": "部署"
+      }
+    ],
+    "relatedQuestionIds": [
+      "cp-q-000746",
+      "cp-q-000708",
+      "cp-q-001775"
+    ],
+    "tags": [
+      "Docker部署"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-case-215",
+    "title": "毕设答辩案例215",
+    "description": "通过毕设答辩掌握项目开发",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "设计",
+        "description": "方案"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "交付",
+        "description": "部署"
+      }
+    ],
+    "relatedQuestionIds": [
+      "cp-q-003472",
+      "cp-q-003470",
+      "cp-q-001210"
+    ],
+    "tags": [
+      "毕设答辩"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-case-216",
+    "title": "项目面试案例216",
+    "description": "通过项目面试掌握项目开发",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "设计",
+        "description": "方案"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "交付",
+        "description": "部署"
+      }
+    ],
+    "relatedQuestionIds": [
+      "cp-q-001657",
+      "cp-q-001264",
+      "cp-q-000819"
+    ],
+    "tags": [
+      "项目面试"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-case-217",
+    "title": "学习平台案例217",
+    "description": "通过学习平台掌握项目开发",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "设计",
+        "description": "方案"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "交付",
+        "description": "部署"
+      }
+    ],
+    "relatedQuestionIds": [
+      "cp-q-002337",
+      "cp-q-000784",
+      "cp-q-000182"
+    ],
+    "tags": [
+      "学习平台"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-case-218",
+    "title": "在线考试案例218",
+    "description": "通过在线考试掌握项目开发",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "设计",
+        "description": "方案"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "交付",
+        "description": "部署"
+      }
+    ],
+    "relatedQuestionIds": [
+      "cp-q-002612",
+      "cp-q-002421",
+      "cp-q-001099"
+    ],
+    "tags": [
+      "在线考试"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-case-219",
+    "title": "个人知识库案例219",
+    "description": "通过个人知识库掌握项目开发",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "设计",
+        "description": "方案"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "交付",
+        "description": "部署"
+      }
+    ],
+    "relatedQuestionIds": [
+      "cp-q-003213",
+      "cp-q-000460",
+      "cp-q-000648"
+    ],
+    "tags": [
+      "个人知识库"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-case-220",
+    "title": "博客系统案例220",
+    "description": "通过博客系统掌握项目开发",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "设计",
+        "description": "方案"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "交付",
+        "description": "部署"
+      }
+    ],
+    "relatedQuestionIds": [
+      "cp-q-003236",
+      "cp-q-001763",
+      "cp-q-002203"
+    ],
+    "tags": [
+      "博客系统"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-case-221",
+    "title": "Todo应用案例221",
+    "description": "通过Todo应用掌握项目开发",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "设计",
+        "description": "方案"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "交付",
+        "description": "部署"
+      }
+    ],
+    "relatedQuestionIds": [
+      "cp-q-001081",
+      "cp-q-002939",
+      "cp-q-002056"
+    ],
+    "tags": [
+      "Todo应用"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-case-222",
+    "title": "图书管理案例222",
+    "description": "通过图书管理掌握项目开发",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "设计",
+        "description": "方案"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "交付",
+        "description": "部署"
+      }
+    ],
+    "relatedQuestionIds": [
+      "cp-q-001781",
+      "cp-q-000304",
+      "cp-q-003465"
+    ],
+    "tags": [
+      "图书管理"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-case-223",
+    "title": "电商后台案例223",
+    "description": "通过电商后台掌握项目开发",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "设计",
+        "description": "方案"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "交付",
+        "description": "部署"
+      }
+    ],
+    "relatedQuestionIds": [
+      "cp-q-000820",
+      "cp-q-002097",
+      "cp-q-001780"
+    ],
+    "tags": [
+      "电商后台"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-case-224",
+    "title": "校园二手案例224",
+    "description": "通过校园二手掌握项目开发",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "设计",
+        "description": "方案"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "交付",
+        "description": "部署"
+      }
+    ],
+    "relatedQuestionIds": [
+      "cp-q-003402",
+      "cp-q-000993",
+      "cp-q-000709"
+    ],
+    "tags": [
+      "校园二手"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-case-225",
+    "title": "课程表案例225",
+    "description": "通过课程表掌握项目开发",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "设计",
+        "description": "方案"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "交付",
+        "description": "部署"
+      }
+    ],
+    "relatedQuestionIds": [
+      "cp-q-003126",
+      "cp-q-002506",
+      "cp-q-001334"
+    ],
+    "tags": [
+      "课程表"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-case-226",
+    "title": "AI问答案例226",
+    "description": "通过AI问答掌握项目开发",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "设计",
+        "description": "方案"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "交付",
+        "description": "部署"
+      }
+    ],
+    "relatedQuestionIds": [
+      "cp-q-001789",
+      "cp-q-000410",
+      "cp-q-001377"
+    ],
+    "tags": [
+      "AI问答"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-case-227",
+    "title": "RAG知识库案例227",
+    "description": "通过RAG知识库掌握项目开发",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "设计",
+        "description": "方案"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "交付",
+        "description": "部署"
+      }
+    ],
+    "relatedQuestionIds": [
+      "cp-q-002280",
+      "cp-q-002539",
+      "cp-q-003320"
+    ],
+    "tags": [
+      "RAG知识库"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-case-228",
+    "title": "数据分析看板案例228",
+    "description": "通过数据分析看板掌握项目开发",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "设计",
+        "description": "方案"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "交付",
+        "description": "部署"
+      }
+    ],
+    "relatedQuestionIds": [
+      "cp-q-003146",
+      "cp-q-000898",
+      "cp-q-000654"
+    ],
+    "tags": [
+      "数据分析看板"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-case-229",
+    "title": "求职作品集案例229",
+    "description": "通过求职作品集掌握项目开发",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "设计",
+        "description": "方案"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "交付",
+        "description": "部署"
+      }
+    ],
+    "relatedQuestionIds": [
+      "cp-q-000781",
+      "cp-q-000059",
+      "cp-q-002237"
+    ],
+    "tags": [
+      "求职作品集"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-case-230",
+    "title": "记账App案例230",
+    "description": "通过记账App掌握项目开发",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "设计",
+        "description": "方案"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "交付",
+        "description": "部署"
+      }
+    ],
+    "relatedQuestionIds": [
+      "cp-q-003344",
+      "cp-q-002106",
+      "cp-q-000030"
+    ],
+    "tags": [
+      "记账App"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-case-231",
+    "title": "环境监测案例231",
+    "description": "通过环境监测掌握项目开发",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "设计",
+        "description": "方案"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "交付",
+        "description": "部署"
+      }
+    ],
+    "relatedQuestionIds": [
+      "cp-q-003268",
+      "cp-q-001265",
+      "cp-q-003068"
+    ],
+    "tags": [
+      "环境监测"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-case-232",
+    "title": "Docker部署案例232",
+    "description": "通过Docker部署掌握项目开发",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "设计",
+        "description": "方案"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "交付",
+        "description": "部署"
+      }
+    ],
+    "relatedQuestionIds": [
+      "cp-q-001273",
+      "cp-q-002998",
+      "cp-q-001039"
+    ],
+    "tags": [
+      "Docker部署"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-case-233",
+    "title": "毕设答辩案例233",
+    "description": "通过毕设答辩掌握项目开发",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "设计",
+        "description": "方案"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "交付",
+        "description": "部署"
+      }
+    ],
+    "relatedQuestionIds": [
+      "cp-q-000279",
+      "cp-q-001601",
+      "cp-q-000270"
+    ],
+    "tags": [
+      "毕设答辩"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-case-234",
+    "title": "项目面试案例234",
+    "description": "通过项目面试掌握项目开发",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "设计",
+        "description": "方案"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "交付",
+        "description": "部署"
+      }
+    ],
+    "relatedQuestionIds": [
+      "cp-q-003390",
+      "cp-q-003082",
+      "cp-q-002572"
+    ],
+    "tags": [
+      "项目面试"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-case-235",
+    "title": "学习平台案例235",
+    "description": "通过学习平台掌握项目开发",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "设计",
+        "description": "方案"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "交付",
+        "description": "部署"
+      }
+    ],
+    "relatedQuestionIds": [
+      "cp-q-001347",
+      "cp-q-000663",
+      "cp-q-000636"
+    ],
+    "tags": [
+      "学习平台"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-case-236",
+    "title": "在线考试案例236",
+    "description": "通过在线考试掌握项目开发",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "设计",
+        "description": "方案"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "交付",
+        "description": "部署"
+      }
+    ],
+    "relatedQuestionIds": [
+      "cp-q-000160",
+      "cp-q-000544",
+      "cp-q-001827"
+    ],
+    "tags": [
+      "在线考试"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-case-237",
+    "title": "个人知识库案例237",
+    "description": "通过个人知识库掌握项目开发",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "设计",
+        "description": "方案"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "交付",
+        "description": "部署"
+      }
+    ],
+    "relatedQuestionIds": [
+      "cp-q-000019",
+      "cp-q-001762",
+      "cp-q-002845"
+    ],
+    "tags": [
+      "个人知识库"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-case-238",
+    "title": "博客系统案例238",
+    "description": "通过博客系统掌握项目开发",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "设计",
+        "description": "方案"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "交付",
+        "description": "部署"
+      }
+    ],
+    "relatedQuestionIds": [
+      "cp-q-002348",
+      "cp-q-002535",
+      "cp-q-000853"
+    ],
+    "tags": [
+      "博客系统"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-case-239",
+    "title": "Todo应用案例239",
+    "description": "通过Todo应用掌握项目开发",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "设计",
+        "description": "方案"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "交付",
+        "description": "部署"
+      }
+    ],
+    "relatedQuestionIds": [
+      "cp-q-000816",
+      "cp-q-000048",
+      "cp-q-000820"
+    ],
+    "tags": [
+      "Todo应用"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-case-240",
+    "title": "图书管理案例240",
+    "description": "通过图书管理掌握项目开发",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "设计",
+        "description": "方案"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "交付",
+        "description": "部署"
+      }
+    ],
+    "relatedQuestionIds": [
+      "cp-q-000527",
+      "cp-q-001285",
+      "cp-q-003424"
+    ],
+    "tags": [
+      "图书管理"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-case-241",
+    "title": "电商后台案例241",
+    "description": "通过电商后台掌握项目开发",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "设计",
+        "description": "方案"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "交付",
+        "description": "部署"
+      }
+    ],
+    "relatedQuestionIds": [
+      "cp-q-002354",
+      "cp-q-002191",
+      "cp-q-003400"
+    ],
+    "tags": [
+      "电商后台"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-case-242",
+    "title": "校园二手案例242",
+    "description": "通过校园二手掌握项目开发",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "设计",
+        "description": "方案"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "交付",
+        "description": "部署"
+      }
+    ],
+    "relatedQuestionIds": [
+      "cp-q-000354",
+      "cp-q-003296",
+      "cp-q-002529"
+    ],
+    "tags": [
+      "校园二手"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-case-243",
+    "title": "课程表案例243",
+    "description": "通过课程表掌握项目开发",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "设计",
+        "description": "方案"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "交付",
+        "description": "部署"
+      }
+    ],
+    "relatedQuestionIds": [
+      "cp-q-002229",
+      "cp-q-002490",
+      "cp-q-000064"
+    ],
+    "tags": [
+      "课程表"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-case-244",
+    "title": "AI问答案例244",
+    "description": "通过AI问答掌握项目开发",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "设计",
+        "description": "方案"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "交付",
+        "description": "部署"
+      }
+    ],
+    "relatedQuestionIds": [
+      "cp-q-002731",
+      "cp-q-002778",
+      "cp-q-001940"
+    ],
+    "tags": [
+      "AI问答"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-case-245",
+    "title": "RAG知识库案例245",
+    "description": "通过RAG知识库掌握项目开发",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "设计",
+        "description": "方案"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "交付",
+        "description": "部署"
+      }
+    ],
+    "relatedQuestionIds": [
+      "cp-q-003213",
+      "cp-q-000830",
+      "cp-q-000792"
+    ],
+    "tags": [
+      "RAG知识库"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-case-246",
+    "title": "数据分析看板案例246",
+    "description": "通过数据分析看板掌握项目开发",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "设计",
+        "description": "方案"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "交付",
+        "description": "部署"
+      }
+    ],
+    "relatedQuestionIds": [
+      "cp-q-002488",
+      "cp-q-003310",
+      "cp-q-002686"
+    ],
+    "tags": [
+      "数据分析看板"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-case-247",
+    "title": "求职作品集案例247",
+    "description": "通过求职作品集掌握项目开发",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "设计",
+        "description": "方案"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "交付",
+        "description": "部署"
+      }
+    ],
+    "relatedQuestionIds": [
+      "cp-q-000863",
+      "cp-q-003404",
+      "cp-q-001616"
+    ],
+    "tags": [
+      "求职作品集"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-case-248",
+    "title": "记账App案例248",
+    "description": "通过记账App掌握项目开发",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "设计",
+        "description": "方案"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "交付",
+        "description": "部署"
+      }
+    ],
+    "relatedQuestionIds": [
+      "cp-q-002731",
+      "cp-q-003357",
+      "cp-q-001152"
+    ],
+    "tags": [
+      "记账App"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-case-249",
+    "title": "环境监测案例249",
+    "description": "通过环境监测掌握项目开发",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "设计",
+        "description": "方案"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "交付",
+        "description": "部署"
+      }
+    ],
+    "relatedQuestionIds": [
+      "cp-q-001755",
+      "cp-q-000272",
+      "cp-q-001408"
+    ],
+    "tags": [
+      "环境监测"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-case-250",
+    "title": "Docker部署案例250",
+    "description": "通过Docker部署掌握项目开发",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "设计",
+        "description": "方案"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "交付",
+        "description": "部署"
+      }
+    ],
+    "relatedQuestionIds": [
+      "cp-q-002350",
+      "cp-q-002120",
+      "cp-q-002908"
+    ],
+    "tags": [
+      "Docker部署"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-case-251",
+    "title": "毕设答辩案例251",
+    "description": "通过毕设答辩掌握项目开发",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "设计",
+        "description": "方案"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "交付",
+        "description": "部署"
+      }
+    ],
+    "relatedQuestionIds": [
+      "cp-q-003452",
+      "cp-q-001364",
+      "cp-q-002538"
+    ],
+    "tags": [
+      "毕设答辩"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-case-252",
+    "title": "项目面试案例252",
+    "description": "通过项目面试掌握项目开发",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "设计",
+        "description": "方案"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "交付",
+        "description": "部署"
+      }
+    ],
+    "relatedQuestionIds": [
+      "cp-q-002374",
+      "cp-q-001402",
+      "cp-q-001626"
+    ],
+    "tags": [
+      "项目面试"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-case-253",
+    "title": "学习平台案例253",
+    "description": "通过学习平台掌握项目开发",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "设计",
+        "description": "方案"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "交付",
+        "description": "部署"
+      }
+    ],
+    "relatedQuestionIds": [
+      "cp-q-003063",
+      "cp-q-002390",
+      "cp-q-000250"
+    ],
+    "tags": [
+      "学习平台"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-case-254",
+    "title": "在线考试案例254",
+    "description": "通过在线考试掌握项目开发",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "设计",
+        "description": "方案"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "交付",
+        "description": "部署"
+      }
+    ],
+    "relatedQuestionIds": [
+      "cp-q-001785",
+      "cp-q-000329",
+      "cp-q-001145"
+    ],
+    "tags": [
+      "在线考试"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-case-255",
+    "title": "个人知识库案例255",
+    "description": "通过个人知识库掌握项目开发",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "设计",
+        "description": "方案"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "交付",
+        "description": "部署"
+      }
+    ],
+    "relatedQuestionIds": [
+      "cp-q-003443",
+      "cp-q-002379",
+      "cp-q-003366"
+    ],
+    "tags": [
+      "个人知识库"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-case-256",
+    "title": "博客系统案例256",
+    "description": "通过博客系统掌握项目开发",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "设计",
+        "description": "方案"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "交付",
+        "description": "部署"
+      }
+    ],
+    "relatedQuestionIds": [
+      "cp-q-001919",
+      "cp-q-002296",
+      "cp-q-002691"
+    ],
+    "tags": [
+      "博客系统"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-case-257",
+    "title": "Todo应用案例257",
+    "description": "通过Todo应用掌握项目开发",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "设计",
+        "description": "方案"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "交付",
+        "description": "部署"
+      }
+    ],
+    "relatedQuestionIds": [
+      "cp-q-003082",
+      "cp-q-002161",
+      "cp-q-002043"
+    ],
+    "tags": [
+      "Todo应用"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-case-258",
+    "title": "图书管理案例258",
+    "description": "通过图书管理掌握项目开发",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "设计",
+        "description": "方案"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "交付",
+        "description": "部署"
+      }
+    ],
+    "relatedQuestionIds": [
+      "cp-q-002550",
+      "cp-q-001817",
+      "cp-q-000360"
+    ],
+    "tags": [
+      "图书管理"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-case-259",
+    "title": "电商后台案例259",
+    "description": "通过电商后台掌握项目开发",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "设计",
+        "description": "方案"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "交付",
+        "description": "部署"
+      }
+    ],
+    "relatedQuestionIds": [
+      "cp-q-001435",
+      "cp-q-001376",
+      "cp-q-002900"
+    ],
+    "tags": [
+      "电商后台"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-case-260",
+    "title": "校园二手案例260",
+    "description": "通过校园二手掌握项目开发",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "设计",
+        "description": "方案"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "交付",
+        "description": "部署"
+      }
+    ],
+    "relatedQuestionIds": [
+      "cp-q-003354",
+      "cp-q-002338",
+      "cp-q-002058"
+    ],
+    "tags": [
+      "校园二手"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  }
+]

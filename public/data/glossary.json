@@ -1,0 +1,3602 @@
+[
+  {
+    "id": "cp-glossary-001",
+    "term": "综合项目",
+    "definition": "综合项目说明",
+    "category": "Capstone",
+    "tags": [
+      "Capstone"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-glossary-002",
+    "term": "毕业设计",
+    "definition": "毕业设计说明",
+    "category": "Capstone",
+    "tags": [
+      "Capstone"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-glossary-003",
+    "term": "技术选型",
+    "definition": "技术选型说明",
+    "category": "Capstone",
+    "tags": [
+      "Capstone"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-glossary-004",
+    "term": "架构设计",
+    "definition": "架构设计说明",
+    "category": "Capstone",
+    "tags": [
+      "Capstone"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-glossary-005",
+    "term": "Docker",
+    "definition": "Docker说明",
+    "category": "Capstone",
+    "tags": [
+      "Capstone"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-glossary-006",
+    "term": "CI/CD",
+    "definition": "CI/CD说明",
+    "category": "Capstone",
+    "tags": [
+      "Capstone"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-glossary-007",
+    "term": "全栈",
+    "definition": "全栈说明",
+    "category": "Capstone",
+    "tags": [
+      "Capstone"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-glossary-008",
+    "term": "测试",
+    "definition": "测试说明",
+    "category": "Capstone",
+    "tags": [
+      "Capstone"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-glossary-009",
+    "term": "文档",
+    "definition": "文档说明",
+    "category": "Capstone",
+    "tags": [
+      "Capstone"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-glossary-010",
+    "term": "答辩",
+    "definition": "答辩说明",
+    "category": "Capstone",
+    "tags": [
+      "Capstone"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-glossary-011",
+    "term": "作品集",
+    "definition": "作品集说明",
+    "category": "Capstone",
+    "tags": [
+      "Capstone"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-glossary-012",
+    "term": "需求分析",
+    "definition": "需求分析说明",
+    "category": "Capstone",
+    "tags": [
+      "Capstone"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-glossary-013",
+    "term": "API设计",
+    "definition": "API设计说明",
+    "category": "Capstone",
+    "tags": [
+      "Capstone"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-glossary-014",
+    "term": "敏捷",
+    "definition": "敏捷说明",
+    "category": "Capstone",
+    "tags": [
+      "Capstone"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-glossary-015",
+    "term": "DevOps",
+    "definition": "DevOps说明",
+    "category": "Capstone",
+    "tags": [
+      "Capstone"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-glossary-016",
+    "term": "Cap概念15",
+    "definition": "Cap概念15说明",
+    "category": "Capstone",
+    "tags": [
+      "Capstone"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-glossary-017",
+    "term": "Cap概念16",
+    "definition": "Cap概念16说明",
+    "category": "Capstone",
+    "tags": [
+      "Capstone"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-glossary-018",
+    "term": "Cap概念17",
+    "definition": "Cap概念17说明",
+    "category": "Capstone",
+    "tags": [
+      "Capstone"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-glossary-019",
+    "term": "Cap概念18",
+    "definition": "Cap概念18说明",
+    "category": "Capstone",
+    "tags": [
+      "Capstone"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-glossary-020",
+    "term": "Cap概念19",
+    "definition": "Cap概念19说明",
+    "category": "Capstone",
+    "tags": [
+      "Capstone"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-glossary-021",
+    "term": "Cap概念20",
+    "definition": "Cap概念20说明",
+    "category": "Capstone",
+    "tags": [
+      "Capstone"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-glossary-022",
+    "term": "Cap概念21",
+    "definition": "Cap概念21说明",
+    "category": "Capstone",
+    "tags": [
+      "Capstone"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-glossary-023",
+    "term": "Cap概念22",
+    "definition": "Cap概念22说明",
+    "category": "Capstone",
+    "tags": [
+      "Capstone"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-glossary-024",
+    "term": "Cap概念23",
+    "definition": "Cap概念23说明",
+    "category": "Capstone",
+    "tags": [
+      "Capstone"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-glossary-025",
+    "term": "Cap概念24",
+    "definition": "Cap概念24说明",
+    "category": "Capstone",
+    "tags": [
+      "Capstone"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-glossary-026",
+    "term": "Cap概念25",
+    "definition": "Cap概念25说明",
+    "category": "Capstone",
+    "tags": [
+      "Capstone"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-glossary-027",
+    "term": "Cap概念26",
+    "definition": "Cap概念26说明",
+    "category": "Capstone",
+    "tags": [
+      "Capstone"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-glossary-028",
+    "term": "Cap概念27",
+    "definition": "Cap概念27说明",
+    "category": "Capstone",
+    "tags": [
+      "Capstone"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-glossary-029",
+    "term": "Cap概念28",
+    "definition": "Cap概念28说明",
+    "category": "Capstone",
+    "tags": [
+      "Capstone"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-glossary-030",
+    "term": "Cap概念29",
+    "definition": "Cap概念29说明",
+    "category": "Capstone",
+    "tags": [
+      "Capstone"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-glossary-031",
+    "term": "Cap概念30",
+    "definition": "Cap概念30说明",
+    "category": "Capstone",
+    "tags": [
+      "Capstone"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-glossary-032",
+    "term": "Cap概念31",
+    "definition": "Cap概念31说明",
+    "category": "Capstone",
+    "tags": [
+      "Capstone"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-glossary-033",
+    "term": "Cap概念32",
+    "definition": "Cap概念32说明",
+    "category": "Capstone",
+    "tags": [
+      "Capstone"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-glossary-034",
+    "term": "Cap概念33",
+    "definition": "Cap概念33说明",
+    "category": "Capstone",
+    "tags": [
+      "Capstone"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-glossary-035",
+    "term": "Cap概念34",
+    "definition": "Cap概念34说明",
+    "category": "Capstone",
+    "tags": [
+      "Capstone"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-glossary-036",
+    "term": "Cap概念35",
+    "definition": "Cap概念35说明",
+    "category": "Capstone",
+    "tags": [
+      "Capstone"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-glossary-037",
+    "term": "Cap概念36",
+    "definition": "Cap概念36说明",
+    "category": "Capstone",
+    "tags": [
+      "Capstone"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-glossary-038",
+    "term": "Cap概念37",
+    "definition": "Cap概念37说明",
+    "category": "Capstone",
+    "tags": [
+      "Capstone"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-glossary-039",
+    "term": "Cap概念38",
+    "definition": "Cap概念38说明",
+    "category": "Capstone",
+    "tags": [
+      "Capstone"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-glossary-040",
+    "term": "Cap概念39",
+    "definition": "Cap概念39说明",
+    "category": "Capstone",
+    "tags": [
+      "Capstone"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-glossary-041",
+    "term": "Cap概念40",
+    "definition": "Cap概念40说明",
+    "category": "Capstone",
+    "tags": [
+      "Capstone"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-glossary-042",
+    "term": "Cap概念41",
+    "definition": "Cap概念41说明",
+    "category": "Capstone",
+    "tags": [
+      "Capstone"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-glossary-043",
+    "term": "Cap概念42",
+    "definition": "Cap概念42说明",
+    "category": "Capstone",
+    "tags": [
+      "Capstone"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-glossary-044",
+    "term": "Cap概念43",
+    "definition": "Cap概念43说明",
+    "category": "Capstone",
+    "tags": [
+      "Capstone"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-glossary-045",
+    "term": "Cap概念44",
+    "definition": "Cap概念44说明",
+    "category": "Capstone",
+    "tags": [
+      "Capstone"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-glossary-046",
+    "term": "Cap概念45",
+    "definition": "Cap概念45说明",
+    "category": "Capstone",
+    "tags": [
+      "Capstone"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-glossary-047",
+    "term": "Cap概念46",
+    "definition": "Cap概念46说明",
+    "category": "Capstone",
+    "tags": [
+      "Capstone"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-glossary-048",
+    "term": "Cap概念47",
+    "definition": "Cap概念47说明",
+    "category": "Capstone",
+    "tags": [
+      "Capstone"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-glossary-049",
+    "term": "Cap概念48",
+    "definition": "Cap概念48说明",
+    "category": "Capstone",
+    "tags": [
+      "Capstone"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-glossary-050",
+    "term": "Cap概念49",
+    "definition": "Cap概念49说明",
+    "category": "Capstone",
+    "tags": [
+      "Capstone"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-glossary-051",
+    "term": "Cap概念50",
+    "definition": "Cap概念50说明",
+    "category": "Capstone",
+    "tags": [
+      "Capstone"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-glossary-052",
+    "term": "Cap概念51",
+    "definition": "Cap概念51说明",
+    "category": "Capstone",
+    "tags": [
+      "Capstone"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-glossary-053",
+    "term": "Cap概念52",
+    "definition": "Cap概念52说明",
+    "category": "Capstone",
+    "tags": [
+      "Capstone"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-glossary-054",
+    "term": "Cap概念53",
+    "definition": "Cap概念53说明",
+    "category": "Capstone",
+    "tags": [
+      "Capstone"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-glossary-055",
+    "term": "Cap概念54",
+    "definition": "Cap概念54说明",
+    "category": "Capstone",
+    "tags": [
+      "Capstone"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-glossary-056",
+    "term": "Cap概念55",
+    "definition": "Cap概念55说明",
+    "category": "Capstone",
+    "tags": [
+      "Capstone"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-glossary-057",
+    "term": "Cap概念56",
+    "definition": "Cap概念56说明",
+    "category": "Capstone",
+    "tags": [
+      "Capstone"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-glossary-058",
+    "term": "Cap概念57",
+    "definition": "Cap概念57说明",
+    "category": "Capstone",
+    "tags": [
+      "Capstone"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-glossary-059",
+    "term": "Cap概念58",
+    "definition": "Cap概念58说明",
+    "category": "Capstone",
+    "tags": [
+      "Capstone"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-glossary-060",
+    "term": "Cap概念59",
+    "definition": "Cap概念59说明",
+    "category": "Capstone",
+    "tags": [
+      "Capstone"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-glossary-061",
+    "term": "Cap概念60",
+    "definition": "Cap概念60说明",
+    "category": "Capstone",
+    "tags": [
+      "Capstone"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-glossary-062",
+    "term": "Cap概念61",
+    "definition": "Cap概念61说明",
+    "category": "Capstone",
+    "tags": [
+      "Capstone"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-glossary-063",
+    "term": "Cap概念62",
+    "definition": "Cap概念62说明",
+    "category": "Capstone",
+    "tags": [
+      "Capstone"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-glossary-064",
+    "term": "Cap概念63",
+    "definition": "Cap概念63说明",
+    "category": "Capstone",
+    "tags": [
+      "Capstone"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-glossary-065",
+    "term": "Cap概念64",
+    "definition": "Cap概念64说明",
+    "category": "Capstone",
+    "tags": [
+      "Capstone"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-glossary-066",
+    "term": "Cap概念65",
+    "definition": "Cap概念65说明",
+    "category": "Capstone",
+    "tags": [
+      "Capstone"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-glossary-067",
+    "term": "Cap概念66",
+    "definition": "Cap概念66说明",
+    "category": "Capstone",
+    "tags": [
+      "Capstone"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-glossary-068",
+    "term": "Cap概念67",
+    "definition": "Cap概念67说明",
+    "category": "Capstone",
+    "tags": [
+      "Capstone"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-glossary-069",
+    "term": "Cap概念68",
+    "definition": "Cap概念68说明",
+    "category": "Capstone",
+    "tags": [
+      "Capstone"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-glossary-070",
+    "term": "Cap概念69",
+    "definition": "Cap概念69说明",
+    "category": "Capstone",
+    "tags": [
+      "Capstone"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-glossary-071",
+    "term": "Cap概念70",
+    "definition": "Cap概念70说明",
+    "category": "Capstone",
+    "tags": [
+      "Capstone"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-glossary-072",
+    "term": "Cap概念71",
+    "definition": "Cap概念71说明",
+    "category": "Capstone",
+    "tags": [
+      "Capstone"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-glossary-073",
+    "term": "Cap概念72",
+    "definition": "Cap概念72说明",
+    "category": "Capstone",
+    "tags": [
+      "Capstone"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-glossary-074",
+    "term": "Cap概念73",
+    "definition": "Cap概念73说明",
+    "category": "Capstone",
+    "tags": [
+      "Capstone"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-glossary-075",
+    "term": "Cap概念74",
+    "definition": "Cap概念74说明",
+    "category": "Capstone",
+    "tags": [
+      "Capstone"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-glossary-076",
+    "term": "Cap概念75",
+    "definition": "Cap概念75说明",
+    "category": "Capstone",
+    "tags": [
+      "Capstone"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-glossary-077",
+    "term": "Cap概念76",
+    "definition": "Cap概念76说明",
+    "category": "Capstone",
+    "tags": [
+      "Capstone"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-glossary-078",
+    "term": "Cap概念77",
+    "definition": "Cap概念77说明",
+    "category": "Capstone",
+    "tags": [
+      "Capstone"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-glossary-079",
+    "term": "Cap概念78",
+    "definition": "Cap概念78说明",
+    "category": "Capstone",
+    "tags": [
+      "Capstone"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-glossary-080",
+    "term": "Cap概念79",
+    "definition": "Cap概念79说明",
+    "category": "Capstone",
+    "tags": [
+      "Capstone"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-glossary-081",
+    "term": "Cap概念80",
+    "definition": "Cap概念80说明",
+    "category": "Capstone",
+    "tags": [
+      "Capstone"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-glossary-082",
+    "term": "Cap概念81",
+    "definition": "Cap概念81说明",
+    "category": "Capstone",
+    "tags": [
+      "Capstone"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-glossary-083",
+    "term": "Cap概念82",
+    "definition": "Cap概念82说明",
+    "category": "Capstone",
+    "tags": [
+      "Capstone"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-glossary-084",
+    "term": "Cap概念83",
+    "definition": "Cap概念83说明",
+    "category": "Capstone",
+    "tags": [
+      "Capstone"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-glossary-085",
+    "term": "Cap概念84",
+    "definition": "Cap概念84说明",
+    "category": "Capstone",
+    "tags": [
+      "Capstone"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-glossary-086",
+    "term": "Cap概念85",
+    "definition": "Cap概念85说明",
+    "category": "Capstone",
+    "tags": [
+      "Capstone"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-glossary-087",
+    "term": "Cap概念86",
+    "definition": "Cap概念86说明",
+    "category": "Capstone",
+    "tags": [
+      "Capstone"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-glossary-088",
+    "term": "Cap概念87",
+    "definition": "Cap概念87说明",
+    "category": "Capstone",
+    "tags": [
+      "Capstone"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-glossary-089",
+    "term": "Cap概念88",
+    "definition": "Cap概念88说明",
+    "category": "Capstone",
+    "tags": [
+      "Capstone"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-glossary-090",
+    "term": "Cap概念89",
+    "definition": "Cap概念89说明",
+    "category": "Capstone",
+    "tags": [
+      "Capstone"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-glossary-091",
+    "term": "Cap概念90",
+    "definition": "Cap概念90说明",
+    "category": "Capstone",
+    "tags": [
+      "Capstone"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-glossary-092",
+    "term": "Cap概念91",
+    "definition": "Cap概念91说明",
+    "category": "Capstone",
+    "tags": [
+      "Capstone"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-glossary-093",
+    "term": "Cap概念92",
+    "definition": "Cap概念92说明",
+    "category": "Capstone",
+    "tags": [
+      "Capstone"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-glossary-094",
+    "term": "Cap概念93",
+    "definition": "Cap概念93说明",
+    "category": "Capstone",
+    "tags": [
+      "Capstone"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-glossary-095",
+    "term": "Cap概念94",
+    "definition": "Cap概念94说明",
+    "category": "Capstone",
+    "tags": [
+      "Capstone"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-glossary-096",
+    "term": "Cap概念95",
+    "definition": "Cap概念95说明",
+    "category": "Capstone",
+    "tags": [
+      "Capstone"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-glossary-097",
+    "term": "Cap概念96",
+    "definition": "Cap概念96说明",
+    "category": "Capstone",
+    "tags": [
+      "Capstone"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-glossary-098",
+    "term": "Cap概念97",
+    "definition": "Cap概念97说明",
+    "category": "Capstone",
+    "tags": [
+      "Capstone"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-glossary-099",
+    "term": "Cap概念98",
+    "definition": "Cap概念98说明",
+    "category": "Capstone",
+    "tags": [
+      "Capstone"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-glossary-100",
+    "term": "Cap概念99",
+    "definition": "Cap概念99说明",
+    "category": "Capstone",
+    "tags": [
+      "Capstone"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-glossary-101",
+    "term": "Cap概念100",
+    "definition": "Cap概念100说明",
+    "category": "Capstone",
+    "tags": [
+      "Capstone"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-glossary-102",
+    "term": "Cap概念101",
+    "definition": "Cap概念101说明",
+    "category": "Capstone",
+    "tags": [
+      "Capstone"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-glossary-103",
+    "term": "Cap概念102",
+    "definition": "Cap概念102说明",
+    "category": "Capstone",
+    "tags": [
+      "Capstone"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-glossary-104",
+    "term": "Cap概念103",
+    "definition": "Cap概念103说明",
+    "category": "Capstone",
+    "tags": [
+      "Capstone"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-glossary-105",
+    "term": "Cap概念104",
+    "definition": "Cap概念104说明",
+    "category": "Capstone",
+    "tags": [
+      "Capstone"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-glossary-106",
+    "term": "Cap概念105",
+    "definition": "Cap概念105说明",
+    "category": "Capstone",
+    "tags": [
+      "Capstone"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-glossary-107",
+    "term": "Cap概念106",
+    "definition": "Cap概念106说明",
+    "category": "Capstone",
+    "tags": [
+      "Capstone"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-glossary-108",
+    "term": "Cap概念107",
+    "definition": "Cap概念107说明",
+    "category": "Capstone",
+    "tags": [
+      "Capstone"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-glossary-109",
+    "term": "Cap概念108",
+    "definition": "Cap概念108说明",
+    "category": "Capstone",
+    "tags": [
+      "Capstone"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-glossary-110",
+    "term": "Cap概念109",
+    "definition": "Cap概念109说明",
+    "category": "Capstone",
+    "tags": [
+      "Capstone"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-glossary-111",
+    "term": "Cap概念110",
+    "definition": "Cap概念110说明",
+    "category": "Capstone",
+    "tags": [
+      "Capstone"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-glossary-112",
+    "term": "Cap概念111",
+    "definition": "Cap概念111说明",
+    "category": "Capstone",
+    "tags": [
+      "Capstone"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-glossary-113",
+    "term": "Cap概念112",
+    "definition": "Cap概念112说明",
+    "category": "Capstone",
+    "tags": [
+      "Capstone"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-glossary-114",
+    "term": "Cap概念113",
+    "definition": "Cap概念113说明",
+    "category": "Capstone",
+    "tags": [
+      "Capstone"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-glossary-115",
+    "term": "Cap概念114",
+    "definition": "Cap概念114说明",
+    "category": "Capstone",
+    "tags": [
+      "Capstone"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-glossary-116",
+    "term": "Cap概念115",
+    "definition": "Cap概念115说明",
+    "category": "Capstone",
+    "tags": [
+      "Capstone"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-glossary-117",
+    "term": "Cap概念116",
+    "definition": "Cap概念116说明",
+    "category": "Capstone",
+    "tags": [
+      "Capstone"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-glossary-118",
+    "term": "Cap概念117",
+    "definition": "Cap概念117说明",
+    "category": "Capstone",
+    "tags": [
+      "Capstone"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-glossary-119",
+    "term": "Cap概念118",
+    "definition": "Cap概念118说明",
+    "category": "Capstone",
+    "tags": [
+      "Capstone"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-glossary-120",
+    "term": "Cap概念119",
+    "definition": "Cap概念119说明",
+    "category": "Capstone",
+    "tags": [
+      "Capstone"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-glossary-121",
+    "term": "Cap概念120",
+    "definition": "Cap概念120说明",
+    "category": "Capstone",
+    "tags": [
+      "Capstone"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-glossary-122",
+    "term": "Cap概念121",
+    "definition": "Cap概念121说明",
+    "category": "Capstone",
+    "tags": [
+      "Capstone"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-glossary-123",
+    "term": "Cap概念122",
+    "definition": "Cap概念122说明",
+    "category": "Capstone",
+    "tags": [
+      "Capstone"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-glossary-124",
+    "term": "Cap概念123",
+    "definition": "Cap概念123说明",
+    "category": "Capstone",
+    "tags": [
+      "Capstone"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-glossary-125",
+    "term": "Cap概念124",
+    "definition": "Cap概念124说明",
+    "category": "Capstone",
+    "tags": [
+      "Capstone"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-glossary-126",
+    "term": "Cap概念125",
+    "definition": "Cap概念125说明",
+    "category": "Capstone",
+    "tags": [
+      "Capstone"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-glossary-127",
+    "term": "Cap概念126",
+    "definition": "Cap概念126说明",
+    "category": "Capstone",
+    "tags": [
+      "Capstone"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-glossary-128",
+    "term": "Cap概念127",
+    "definition": "Cap概念127说明",
+    "category": "Capstone",
+    "tags": [
+      "Capstone"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-glossary-129",
+    "term": "Cap概念128",
+    "definition": "Cap概念128说明",
+    "category": "Capstone",
+    "tags": [
+      "Capstone"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-glossary-130",
+    "term": "Cap概念129",
+    "definition": "Cap概念129说明",
+    "category": "Capstone",
+    "tags": [
+      "Capstone"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-glossary-131",
+    "term": "Cap概念130",
+    "definition": "Cap概念130说明",
+    "category": "Capstone",
+    "tags": [
+      "Capstone"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-glossary-132",
+    "term": "Cap概念131",
+    "definition": "Cap概念131说明",
+    "category": "Capstone",
+    "tags": [
+      "Capstone"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-glossary-133",
+    "term": "Cap概念132",
+    "definition": "Cap概念132说明",
+    "category": "Capstone",
+    "tags": [
+      "Capstone"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-glossary-134",
+    "term": "Cap概念133",
+    "definition": "Cap概念133说明",
+    "category": "Capstone",
+    "tags": [
+      "Capstone"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-glossary-135",
+    "term": "Cap概念134",
+    "definition": "Cap概念134说明",
+    "category": "Capstone",
+    "tags": [
+      "Capstone"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-glossary-136",
+    "term": "Cap概念135",
+    "definition": "Cap概念135说明",
+    "category": "Capstone",
+    "tags": [
+      "Capstone"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-glossary-137",
+    "term": "Cap概念136",
+    "definition": "Cap概念136说明",
+    "category": "Capstone",
+    "tags": [
+      "Capstone"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-glossary-138",
+    "term": "Cap概念137",
+    "definition": "Cap概念137说明",
+    "category": "Capstone",
+    "tags": [
+      "Capstone"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-glossary-139",
+    "term": "Cap概念138",
+    "definition": "Cap概念138说明",
+    "category": "Capstone",
+    "tags": [
+      "Capstone"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-glossary-140",
+    "term": "Cap概念139",
+    "definition": "Cap概念139说明",
+    "category": "Capstone",
+    "tags": [
+      "Capstone"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-glossary-141",
+    "term": "Cap概念140",
+    "definition": "Cap概念140说明",
+    "category": "Capstone",
+    "tags": [
+      "Capstone"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-glossary-142",
+    "term": "Cap概念141",
+    "definition": "Cap概念141说明",
+    "category": "Capstone",
+    "tags": [
+      "Capstone"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-glossary-143",
+    "term": "Cap概念142",
+    "definition": "Cap概念142说明",
+    "category": "Capstone",
+    "tags": [
+      "Capstone"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-glossary-144",
+    "term": "Cap概念143",
+    "definition": "Cap概念143说明",
+    "category": "Capstone",
+    "tags": [
+      "Capstone"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-glossary-145",
+    "term": "Cap概念144",
+    "definition": "Cap概念144说明",
+    "category": "Capstone",
+    "tags": [
+      "Capstone"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-glossary-146",
+    "term": "Cap概念145",
+    "definition": "Cap概念145说明",
+    "category": "Capstone",
+    "tags": [
+      "Capstone"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-glossary-147",
+    "term": "Cap概念146",
+    "definition": "Cap概念146说明",
+    "category": "Capstone",
+    "tags": [
+      "Capstone"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-glossary-148",
+    "term": "Cap概念147",
+    "definition": "Cap概念147说明",
+    "category": "Capstone",
+    "tags": [
+      "Capstone"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-glossary-149",
+    "term": "Cap概念148",
+    "definition": "Cap概念148说明",
+    "category": "Capstone",
+    "tags": [
+      "Capstone"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-glossary-150",
+    "term": "Cap概念149",
+    "definition": "Cap概念149说明",
+    "category": "Capstone",
+    "tags": [
+      "Capstone"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-glossary-151",
+    "term": "Cap概念150",
+    "definition": "Cap概念150说明",
+    "category": "Capstone",
+    "tags": [
+      "Capstone"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-glossary-152",
+    "term": "Cap概念151",
+    "definition": "Cap概念151说明",
+    "category": "Capstone",
+    "tags": [
+      "Capstone"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-glossary-153",
+    "term": "Cap概念152",
+    "definition": "Cap概念152说明",
+    "category": "Capstone",
+    "tags": [
+      "Capstone"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-glossary-154",
+    "term": "Cap概念153",
+    "definition": "Cap概念153说明",
+    "category": "Capstone",
+    "tags": [
+      "Capstone"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-glossary-155",
+    "term": "Cap概念154",
+    "definition": "Cap概念154说明",
+    "category": "Capstone",
+    "tags": [
+      "Capstone"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-glossary-156",
+    "term": "Cap概念155",
+    "definition": "Cap概念155说明",
+    "category": "Capstone",
+    "tags": [
+      "Capstone"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-glossary-157",
+    "term": "Cap概念156",
+    "definition": "Cap概念156说明",
+    "category": "Capstone",
+    "tags": [
+      "Capstone"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-glossary-158",
+    "term": "Cap概念157",
+    "definition": "Cap概念157说明",
+    "category": "Capstone",
+    "tags": [
+      "Capstone"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-glossary-159",
+    "term": "Cap概念158",
+    "definition": "Cap概念158说明",
+    "category": "Capstone",
+    "tags": [
+      "Capstone"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-glossary-160",
+    "term": "Cap概念159",
+    "definition": "Cap概念159说明",
+    "category": "Capstone",
+    "tags": [
+      "Capstone"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-glossary-161",
+    "term": "Cap概念160",
+    "definition": "Cap概念160说明",
+    "category": "Capstone",
+    "tags": [
+      "Capstone"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-glossary-162",
+    "term": "Cap概念161",
+    "definition": "Cap概念161说明",
+    "category": "Capstone",
+    "tags": [
+      "Capstone"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-glossary-163",
+    "term": "Cap概念162",
+    "definition": "Cap概念162说明",
+    "category": "Capstone",
+    "tags": [
+      "Capstone"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-glossary-164",
+    "term": "Cap概念163",
+    "definition": "Cap概念163说明",
+    "category": "Capstone",
+    "tags": [
+      "Capstone"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-glossary-165",
+    "term": "Cap概念164",
+    "definition": "Cap概念164说明",
+    "category": "Capstone",
+    "tags": [
+      "Capstone"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-glossary-166",
+    "term": "Cap概念165",
+    "definition": "Cap概念165说明",
+    "category": "Capstone",
+    "tags": [
+      "Capstone"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-glossary-167",
+    "term": "Cap概念166",
+    "definition": "Cap概念166说明",
+    "category": "Capstone",
+    "tags": [
+      "Capstone"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-glossary-168",
+    "term": "Cap概念167",
+    "definition": "Cap概念167说明",
+    "category": "Capstone",
+    "tags": [
+      "Capstone"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-glossary-169",
+    "term": "Cap概念168",
+    "definition": "Cap概念168说明",
+    "category": "Capstone",
+    "tags": [
+      "Capstone"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-glossary-170",
+    "term": "Cap概念169",
+    "definition": "Cap概念169说明",
+    "category": "Capstone",
+    "tags": [
+      "Capstone"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-glossary-171",
+    "term": "Cap概念170",
+    "definition": "Cap概念170说明",
+    "category": "Capstone",
+    "tags": [
+      "Capstone"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-glossary-172",
+    "term": "Cap概念171",
+    "definition": "Cap概念171说明",
+    "category": "Capstone",
+    "tags": [
+      "Capstone"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-glossary-173",
+    "term": "Cap概念172",
+    "definition": "Cap概念172说明",
+    "category": "Capstone",
+    "tags": [
+      "Capstone"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-glossary-174",
+    "term": "Cap概念173",
+    "definition": "Cap概念173说明",
+    "category": "Capstone",
+    "tags": [
+      "Capstone"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-glossary-175",
+    "term": "Cap概念174",
+    "definition": "Cap概念174说明",
+    "category": "Capstone",
+    "tags": [
+      "Capstone"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-glossary-176",
+    "term": "Cap概念175",
+    "definition": "Cap概念175说明",
+    "category": "Capstone",
+    "tags": [
+      "Capstone"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-glossary-177",
+    "term": "Cap概念176",
+    "definition": "Cap概念176说明",
+    "category": "Capstone",
+    "tags": [
+      "Capstone"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-glossary-178",
+    "term": "Cap概念177",
+    "definition": "Cap概念177说明",
+    "category": "Capstone",
+    "tags": [
+      "Capstone"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-glossary-179",
+    "term": "Cap概念178",
+    "definition": "Cap概念178说明",
+    "category": "Capstone",
+    "tags": [
+      "Capstone"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-glossary-180",
+    "term": "Cap概念179",
+    "definition": "Cap概念179说明",
+    "category": "Capstone",
+    "tags": [
+      "Capstone"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-glossary-181",
+    "term": "Cap概念180",
+    "definition": "Cap概念180说明",
+    "category": "Capstone",
+    "tags": [
+      "Capstone"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-glossary-182",
+    "term": "Cap概念181",
+    "definition": "Cap概念181说明",
+    "category": "Capstone",
+    "tags": [
+      "Capstone"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-glossary-183",
+    "term": "Cap概念182",
+    "definition": "Cap概念182说明",
+    "category": "Capstone",
+    "tags": [
+      "Capstone"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-glossary-184",
+    "term": "Cap概念183",
+    "definition": "Cap概念183说明",
+    "category": "Capstone",
+    "tags": [
+      "Capstone"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-glossary-185",
+    "term": "Cap概念184",
+    "definition": "Cap概念184说明",
+    "category": "Capstone",
+    "tags": [
+      "Capstone"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-glossary-186",
+    "term": "Cap概念185",
+    "definition": "Cap概念185说明",
+    "category": "Capstone",
+    "tags": [
+      "Capstone"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-glossary-187",
+    "term": "Cap概念186",
+    "definition": "Cap概念186说明",
+    "category": "Capstone",
+    "tags": [
+      "Capstone"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-glossary-188",
+    "term": "Cap概念187",
+    "definition": "Cap概念187说明",
+    "category": "Capstone",
+    "tags": [
+      "Capstone"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-glossary-189",
+    "term": "Cap概念188",
+    "definition": "Cap概念188说明",
+    "category": "Capstone",
+    "tags": [
+      "Capstone"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-glossary-190",
+    "term": "Cap概念189",
+    "definition": "Cap概念189说明",
+    "category": "Capstone",
+    "tags": [
+      "Capstone"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-glossary-191",
+    "term": "Cap概念190",
+    "definition": "Cap概念190说明",
+    "category": "Capstone",
+    "tags": [
+      "Capstone"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-glossary-192",
+    "term": "Cap概念191",
+    "definition": "Cap概念191说明",
+    "category": "Capstone",
+    "tags": [
+      "Capstone"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-glossary-193",
+    "term": "Cap概念192",
+    "definition": "Cap概念192说明",
+    "category": "Capstone",
+    "tags": [
+      "Capstone"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-glossary-194",
+    "term": "Cap概念193",
+    "definition": "Cap概念193说明",
+    "category": "Capstone",
+    "tags": [
+      "Capstone"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-glossary-195",
+    "term": "Cap概念194",
+    "definition": "Cap概念194说明",
+    "category": "Capstone",
+    "tags": [
+      "Capstone"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-glossary-196",
+    "term": "Cap概念195",
+    "definition": "Cap概念195说明",
+    "category": "Capstone",
+    "tags": [
+      "Capstone"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-glossary-197",
+    "term": "Cap概念196",
+    "definition": "Cap概念196说明",
+    "category": "Capstone",
+    "tags": [
+      "Capstone"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-glossary-198",
+    "term": "Cap概念197",
+    "definition": "Cap概念197说明",
+    "category": "Capstone",
+    "tags": [
+      "Capstone"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-glossary-199",
+    "term": "Cap概念198",
+    "definition": "Cap概念198说明",
+    "category": "Capstone",
+    "tags": [
+      "Capstone"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-glossary-200",
+    "term": "Cap概念199",
+    "definition": "Cap概念199说明",
+    "category": "Capstone",
+    "tags": [
+      "Capstone"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-glossary-201",
+    "term": "Cap概念200",
+    "definition": "Cap概念200说明",
+    "category": "Capstone",
+    "tags": [
+      "Capstone"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-glossary-202",
+    "term": "Cap概念201",
+    "definition": "Cap概念201说明",
+    "category": "Capstone",
+    "tags": [
+      "Capstone"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-glossary-203",
+    "term": "Cap概念202",
+    "definition": "Cap概念202说明",
+    "category": "Capstone",
+    "tags": [
+      "Capstone"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-glossary-204",
+    "term": "Cap概念203",
+    "definition": "Cap概念203说明",
+    "category": "Capstone",
+    "tags": [
+      "Capstone"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-glossary-205",
+    "term": "Cap概念204",
+    "definition": "Cap概念204说明",
+    "category": "Capstone",
+    "tags": [
+      "Capstone"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-glossary-206",
+    "term": "Cap概念205",
+    "definition": "Cap概念205说明",
+    "category": "Capstone",
+    "tags": [
+      "Capstone"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-glossary-207",
+    "term": "Cap概念206",
+    "definition": "Cap概念206说明",
+    "category": "Capstone",
+    "tags": [
+      "Capstone"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-glossary-208",
+    "term": "Cap概念207",
+    "definition": "Cap概念207说明",
+    "category": "Capstone",
+    "tags": [
+      "Capstone"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-glossary-209",
+    "term": "Cap概念208",
+    "definition": "Cap概念208说明",
+    "category": "Capstone",
+    "tags": [
+      "Capstone"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-glossary-210",
+    "term": "Cap概念209",
+    "definition": "Cap概念209说明",
+    "category": "Capstone",
+    "tags": [
+      "Capstone"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-glossary-211",
+    "term": "Cap概念210",
+    "definition": "Cap概念210说明",
+    "category": "Capstone",
+    "tags": [
+      "Capstone"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-glossary-212",
+    "term": "Cap概念211",
+    "definition": "Cap概念211说明",
+    "category": "Capstone",
+    "tags": [
+      "Capstone"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-glossary-213",
+    "term": "Cap概念212",
+    "definition": "Cap概念212说明",
+    "category": "Capstone",
+    "tags": [
+      "Capstone"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-glossary-214",
+    "term": "Cap概念213",
+    "definition": "Cap概念213说明",
+    "category": "Capstone",
+    "tags": [
+      "Capstone"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-glossary-215",
+    "term": "Cap概念214",
+    "definition": "Cap概念214说明",
+    "category": "Capstone",
+    "tags": [
+      "Capstone"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-glossary-216",
+    "term": "Cap概念215",
+    "definition": "Cap概念215说明",
+    "category": "Capstone",
+    "tags": [
+      "Capstone"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-glossary-217",
+    "term": "Cap概念216",
+    "definition": "Cap概念216说明",
+    "category": "Capstone",
+    "tags": [
+      "Capstone"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-glossary-218",
+    "term": "Cap概念217",
+    "definition": "Cap概念217说明",
+    "category": "Capstone",
+    "tags": [
+      "Capstone"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-glossary-219",
+    "term": "Cap概念218",
+    "definition": "Cap概念218说明",
+    "category": "Capstone",
+    "tags": [
+      "Capstone"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-glossary-220",
+    "term": "Cap概念219",
+    "definition": "Cap概念219说明",
+    "category": "Capstone",
+    "tags": [
+      "Capstone"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-glossary-221",
+    "term": "Cap概念220",
+    "definition": "Cap概念220说明",
+    "category": "Capstone",
+    "tags": [
+      "Capstone"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-glossary-222",
+    "term": "Cap概念221",
+    "definition": "Cap概念221说明",
+    "category": "Capstone",
+    "tags": [
+      "Capstone"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-glossary-223",
+    "term": "Cap概念222",
+    "definition": "Cap概念222说明",
+    "category": "Capstone",
+    "tags": [
+      "Capstone"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-glossary-224",
+    "term": "Cap概念223",
+    "definition": "Cap概念223说明",
+    "category": "Capstone",
+    "tags": [
+      "Capstone"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-glossary-225",
+    "term": "Cap概念224",
+    "definition": "Cap概念224说明",
+    "category": "Capstone",
+    "tags": [
+      "Capstone"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-glossary-226",
+    "term": "Cap概念225",
+    "definition": "Cap概念225说明",
+    "category": "Capstone",
+    "tags": [
+      "Capstone"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-glossary-227",
+    "term": "Cap概念226",
+    "definition": "Cap概念226说明",
+    "category": "Capstone",
+    "tags": [
+      "Capstone"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-glossary-228",
+    "term": "Cap概念227",
+    "definition": "Cap概念227说明",
+    "category": "Capstone",
+    "tags": [
+      "Capstone"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-glossary-229",
+    "term": "Cap概念228",
+    "definition": "Cap概念228说明",
+    "category": "Capstone",
+    "tags": [
+      "Capstone"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-glossary-230",
+    "term": "Cap概念229",
+    "definition": "Cap概念229说明",
+    "category": "Capstone",
+    "tags": [
+      "Capstone"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-glossary-231",
+    "term": "Cap概念230",
+    "definition": "Cap概念230说明",
+    "category": "Capstone",
+    "tags": [
+      "Capstone"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-glossary-232",
+    "term": "Cap概念231",
+    "definition": "Cap概念231说明",
+    "category": "Capstone",
+    "tags": [
+      "Capstone"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-glossary-233",
+    "term": "Cap概念232",
+    "definition": "Cap概念232说明",
+    "category": "Capstone",
+    "tags": [
+      "Capstone"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-glossary-234",
+    "term": "Cap概念233",
+    "definition": "Cap概念233说明",
+    "category": "Capstone",
+    "tags": [
+      "Capstone"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-glossary-235",
+    "term": "Cap概念234",
+    "definition": "Cap概念234说明",
+    "category": "Capstone",
+    "tags": [
+      "Capstone"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-glossary-236",
+    "term": "Cap概念235",
+    "definition": "Cap概念235说明",
+    "category": "Capstone",
+    "tags": [
+      "Capstone"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-glossary-237",
+    "term": "Cap概念236",
+    "definition": "Cap概念236说明",
+    "category": "Capstone",
+    "tags": [
+      "Capstone"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-glossary-238",
+    "term": "Cap概念237",
+    "definition": "Cap概念237说明",
+    "category": "Capstone",
+    "tags": [
+      "Capstone"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-glossary-239",
+    "term": "Cap概念238",
+    "definition": "Cap概念238说明",
+    "category": "Capstone",
+    "tags": [
+      "Capstone"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-glossary-240",
+    "term": "Cap概念239",
+    "definition": "Cap概念239说明",
+    "category": "Capstone",
+    "tags": [
+      "Capstone"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-glossary-241",
+    "term": "Cap概念240",
+    "definition": "Cap概念240说明",
+    "category": "Capstone",
+    "tags": [
+      "Capstone"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-glossary-242",
+    "term": "Cap概念241",
+    "definition": "Cap概念241说明",
+    "category": "Capstone",
+    "tags": [
+      "Capstone"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-glossary-243",
+    "term": "Cap概念242",
+    "definition": "Cap概念242说明",
+    "category": "Capstone",
+    "tags": [
+      "Capstone"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-glossary-244",
+    "term": "Cap概念243",
+    "definition": "Cap概念243说明",
+    "category": "Capstone",
+    "tags": [
+      "Capstone"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-glossary-245",
+    "term": "Cap概念244",
+    "definition": "Cap概念244说明",
+    "category": "Capstone",
+    "tags": [
+      "Capstone"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-glossary-246",
+    "term": "Cap概念245",
+    "definition": "Cap概念245说明",
+    "category": "Capstone",
+    "tags": [
+      "Capstone"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-glossary-247",
+    "term": "Cap概念246",
+    "definition": "Cap概念246说明",
+    "category": "Capstone",
+    "tags": [
+      "Capstone"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-glossary-248",
+    "term": "Cap概念247",
+    "definition": "Cap概念247说明",
+    "category": "Capstone",
+    "tags": [
+      "Capstone"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-glossary-249",
+    "term": "Cap概念248",
+    "definition": "Cap概念248说明",
+    "category": "Capstone",
+    "tags": [
+      "Capstone"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-glossary-250",
+    "term": "Cap概念249",
+    "definition": "Cap概念249说明",
+    "category": "Capstone",
+    "tags": [
+      "Capstone"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-glossary-251",
+    "term": "Cap概念250",
+    "definition": "Cap概念250说明",
+    "category": "Capstone",
+    "tags": [
+      "Capstone"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-glossary-252",
+    "term": "Cap概念251",
+    "definition": "Cap概念251说明",
+    "category": "Capstone",
+    "tags": [
+      "Capstone"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-glossary-253",
+    "term": "Cap概念252",
+    "definition": "Cap概念252说明",
+    "category": "Capstone",
+    "tags": [
+      "Capstone"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-glossary-254",
+    "term": "Cap概念253",
+    "definition": "Cap概念253说明",
+    "category": "Capstone",
+    "tags": [
+      "Capstone"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-glossary-255",
+    "term": "Cap概念254",
+    "definition": "Cap概念254说明",
+    "category": "Capstone",
+    "tags": [
+      "Capstone"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-glossary-256",
+    "term": "Cap概念255",
+    "definition": "Cap概念255说明",
+    "category": "Capstone",
+    "tags": [
+      "Capstone"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-glossary-257",
+    "term": "Cap概念256",
+    "definition": "Cap概念256说明",
+    "category": "Capstone",
+    "tags": [
+      "Capstone"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-glossary-258",
+    "term": "Cap概念257",
+    "definition": "Cap概念257说明",
+    "category": "Capstone",
+    "tags": [
+      "Capstone"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-glossary-259",
+    "term": "Cap概念258",
+    "definition": "Cap概念258说明",
+    "category": "Capstone",
+    "tags": [
+      "Capstone"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-glossary-260",
+    "term": "Cap概念259",
+    "definition": "Cap概念259说明",
+    "category": "Capstone",
+    "tags": [
+      "Capstone"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-glossary-261",
+    "term": "Cap概念260",
+    "definition": "Cap概念260说明",
+    "category": "Capstone",
+    "tags": [
+      "Capstone"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-glossary-262",
+    "term": "Cap概念261",
+    "definition": "Cap概念261说明",
+    "category": "Capstone",
+    "tags": [
+      "Capstone"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-glossary-263",
+    "term": "Cap概念262",
+    "definition": "Cap概念262说明",
+    "category": "Capstone",
+    "tags": [
+      "Capstone"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-glossary-264",
+    "term": "Cap概念263",
+    "definition": "Cap概念263说明",
+    "category": "Capstone",
+    "tags": [
+      "Capstone"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-glossary-265",
+    "term": "Cap概念264",
+    "definition": "Cap概念264说明",
+    "category": "Capstone",
+    "tags": [
+      "Capstone"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-glossary-266",
+    "term": "Cap概念265",
+    "definition": "Cap概念265说明",
+    "category": "Capstone",
+    "tags": [
+      "Capstone"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-glossary-267",
+    "term": "Cap概念266",
+    "definition": "Cap概念266说明",
+    "category": "Capstone",
+    "tags": [
+      "Capstone"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-glossary-268",
+    "term": "Cap概念267",
+    "definition": "Cap概念267说明",
+    "category": "Capstone",
+    "tags": [
+      "Capstone"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-glossary-269",
+    "term": "Cap概念268",
+    "definition": "Cap概念268说明",
+    "category": "Capstone",
+    "tags": [
+      "Capstone"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-glossary-270",
+    "term": "Cap概念269",
+    "definition": "Cap概念269说明",
+    "category": "Capstone",
+    "tags": [
+      "Capstone"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-glossary-271",
+    "term": "Cap概念270",
+    "definition": "Cap概念270说明",
+    "category": "Capstone",
+    "tags": [
+      "Capstone"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-glossary-272",
+    "term": "Cap概念271",
+    "definition": "Cap概念271说明",
+    "category": "Capstone",
+    "tags": [
+      "Capstone"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-glossary-273",
+    "term": "Cap概念272",
+    "definition": "Cap概念272说明",
+    "category": "Capstone",
+    "tags": [
+      "Capstone"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-glossary-274",
+    "term": "Cap概念273",
+    "definition": "Cap概念273说明",
+    "category": "Capstone",
+    "tags": [
+      "Capstone"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-glossary-275",
+    "term": "Cap概念274",
+    "definition": "Cap概念274说明",
+    "category": "Capstone",
+    "tags": [
+      "Capstone"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-glossary-276",
+    "term": "Cap概念275",
+    "definition": "Cap概念275说明",
+    "category": "Capstone",
+    "tags": [
+      "Capstone"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-glossary-277",
+    "term": "Cap概念276",
+    "definition": "Cap概念276说明",
+    "category": "Capstone",
+    "tags": [
+      "Capstone"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-glossary-278",
+    "term": "Cap概念277",
+    "definition": "Cap概念277说明",
+    "category": "Capstone",
+    "tags": [
+      "Capstone"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-glossary-279",
+    "term": "Cap概念278",
+    "definition": "Cap概念278说明",
+    "category": "Capstone",
+    "tags": [
+      "Capstone"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-glossary-280",
+    "term": "Cap概念279",
+    "definition": "Cap概念279说明",
+    "category": "Capstone",
+    "tags": [
+      "Capstone"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-glossary-281",
+    "term": "Cap概念280",
+    "definition": "Cap概念280说明",
+    "category": "Capstone",
+    "tags": [
+      "Capstone"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-glossary-282",
+    "term": "Cap概念281",
+    "definition": "Cap概念281说明",
+    "category": "Capstone",
+    "tags": [
+      "Capstone"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-glossary-283",
+    "term": "Cap概念282",
+    "definition": "Cap概念282说明",
+    "category": "Capstone",
+    "tags": [
+      "Capstone"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-glossary-284",
+    "term": "Cap概念283",
+    "definition": "Cap概念283说明",
+    "category": "Capstone",
+    "tags": [
+      "Capstone"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-glossary-285",
+    "term": "Cap概念284",
+    "definition": "Cap概念284说明",
+    "category": "Capstone",
+    "tags": [
+      "Capstone"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-glossary-286",
+    "term": "Cap概念285",
+    "definition": "Cap概念285说明",
+    "category": "Capstone",
+    "tags": [
+      "Capstone"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-glossary-287",
+    "term": "Cap概念286",
+    "definition": "Cap概念286说明",
+    "category": "Capstone",
+    "tags": [
+      "Capstone"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-glossary-288",
+    "term": "Cap概念287",
+    "definition": "Cap概念287说明",
+    "category": "Capstone",
+    "tags": [
+      "Capstone"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-glossary-289",
+    "term": "Cap概念288",
+    "definition": "Cap概念288说明",
+    "category": "Capstone",
+    "tags": [
+      "Capstone"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-glossary-290",
+    "term": "Cap概念289",
+    "definition": "Cap概念289说明",
+    "category": "Capstone",
+    "tags": [
+      "Capstone"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-glossary-291",
+    "term": "Cap概念290",
+    "definition": "Cap概念290说明",
+    "category": "Capstone",
+    "tags": [
+      "Capstone"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-glossary-292",
+    "term": "Cap概念291",
+    "definition": "Cap概念291说明",
+    "category": "Capstone",
+    "tags": [
+      "Capstone"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-glossary-293",
+    "term": "Cap概念292",
+    "definition": "Cap概念292说明",
+    "category": "Capstone",
+    "tags": [
+      "Capstone"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-glossary-294",
+    "term": "Cap概念293",
+    "definition": "Cap概念293说明",
+    "category": "Capstone",
+    "tags": [
+      "Capstone"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-glossary-295",
+    "term": "Cap概念294",
+    "definition": "Cap概念294说明",
+    "category": "Capstone",
+    "tags": [
+      "Capstone"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-glossary-296",
+    "term": "Cap概念295",
+    "definition": "Cap概念295说明",
+    "category": "Capstone",
+    "tags": [
+      "Capstone"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-glossary-297",
+    "term": "Cap概念296",
+    "definition": "Cap概念296说明",
+    "category": "Capstone",
+    "tags": [
+      "Capstone"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-glossary-298",
+    "term": "Cap概念297",
+    "definition": "Cap概念297说明",
+    "category": "Capstone",
+    "tags": [
+      "Capstone"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-glossary-299",
+    "term": "Cap概念298",
+    "definition": "Cap概念298说明",
+    "category": "Capstone",
+    "tags": [
+      "Capstone"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-glossary-300",
+    "term": "Cap概念299",
+    "definition": "Cap概念299说明",
+    "category": "Capstone",
+    "tags": [
+      "Capstone"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-glossary-301",
+    "term": "Cap概念300",
+    "definition": "Cap概念300说明",
+    "category": "Capstone",
+    "tags": [
+      "Capstone"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-glossary-302",
+    "term": "Cap概念301",
+    "definition": "Cap概念301说明",
+    "category": "Capstone",
+    "tags": [
+      "Capstone"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-glossary-303",
+    "term": "Cap概念302",
+    "definition": "Cap概念302说明",
+    "category": "Capstone",
+    "tags": [
+      "Capstone"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-glossary-304",
+    "term": "Cap概念303",
+    "definition": "Cap概念303说明",
+    "category": "Capstone",
+    "tags": [
+      "Capstone"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-glossary-305",
+    "term": "Cap概念304",
+    "definition": "Cap概念304说明",
+    "category": "Capstone",
+    "tags": [
+      "Capstone"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-glossary-306",
+    "term": "Cap概念305",
+    "definition": "Cap概念305说明",
+    "category": "Capstone",
+    "tags": [
+      "Capstone"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-glossary-307",
+    "term": "Cap概念306",
+    "definition": "Cap概念306说明",
+    "category": "Capstone",
+    "tags": [
+      "Capstone"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-glossary-308",
+    "term": "Cap概念307",
+    "definition": "Cap概念307说明",
+    "category": "Capstone",
+    "tags": [
+      "Capstone"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-glossary-309",
+    "term": "Cap概念308",
+    "definition": "Cap概念308说明",
+    "category": "Capstone",
+    "tags": [
+      "Capstone"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-glossary-310",
+    "term": "Cap概念309",
+    "definition": "Cap概念309说明",
+    "category": "Capstone",
+    "tags": [
+      "Capstone"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-glossary-311",
+    "term": "Cap概念310",
+    "definition": "Cap概念310说明",
+    "category": "Capstone",
+    "tags": [
+      "Capstone"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-glossary-312",
+    "term": "Cap概念311",
+    "definition": "Cap概念311说明",
+    "category": "Capstone",
+    "tags": [
+      "Capstone"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-glossary-313",
+    "term": "Cap概念312",
+    "definition": "Cap概念312说明",
+    "category": "Capstone",
+    "tags": [
+      "Capstone"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-glossary-314",
+    "term": "Cap概念313",
+    "definition": "Cap概念313说明",
+    "category": "Capstone",
+    "tags": [
+      "Capstone"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-glossary-315",
+    "term": "Cap概念314",
+    "definition": "Cap概念314说明",
+    "category": "Capstone",
+    "tags": [
+      "Capstone"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-glossary-316",
+    "term": "Cap概念315",
+    "definition": "Cap概念315说明",
+    "category": "Capstone",
+    "tags": [
+      "Capstone"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-glossary-317",
+    "term": "Cap概念316",
+    "definition": "Cap概念316说明",
+    "category": "Capstone",
+    "tags": [
+      "Capstone"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-glossary-318",
+    "term": "Cap概念317",
+    "definition": "Cap概念317说明",
+    "category": "Capstone",
+    "tags": [
+      "Capstone"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-glossary-319",
+    "term": "Cap概念318",
+    "definition": "Cap概念318说明",
+    "category": "Capstone",
+    "tags": [
+      "Capstone"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-glossary-320",
+    "term": "Cap概念319",
+    "definition": "Cap概念319说明",
+    "category": "Capstone",
+    "tags": [
+      "Capstone"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-glossary-321",
+    "term": "Cap概念320",
+    "definition": "Cap概念320说明",
+    "category": "Capstone",
+    "tags": [
+      "Capstone"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-glossary-322",
+    "term": "Cap概念321",
+    "definition": "Cap概念321说明",
+    "category": "Capstone",
+    "tags": [
+      "Capstone"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-glossary-323",
+    "term": "Cap概念322",
+    "definition": "Cap概念322说明",
+    "category": "Capstone",
+    "tags": [
+      "Capstone"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-glossary-324",
+    "term": "Cap概念323",
+    "definition": "Cap概念323说明",
+    "category": "Capstone",
+    "tags": [
+      "Capstone"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-glossary-325",
+    "term": "Cap概念324",
+    "definition": "Cap概念324说明",
+    "category": "Capstone",
+    "tags": [
+      "Capstone"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-glossary-326",
+    "term": "Cap概念325",
+    "definition": "Cap概念325说明",
+    "category": "Capstone",
+    "tags": [
+      "Capstone"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-glossary-327",
+    "term": "Cap概念326",
+    "definition": "Cap概念326说明",
+    "category": "Capstone",
+    "tags": [
+      "Capstone"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-glossary-328",
+    "term": "Cap概念327",
+    "definition": "Cap概念327说明",
+    "category": "Capstone",
+    "tags": [
+      "Capstone"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-glossary-329",
+    "term": "Cap概念328",
+    "definition": "Cap概念328说明",
+    "category": "Capstone",
+    "tags": [
+      "Capstone"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-glossary-330",
+    "term": "Cap概念329",
+    "definition": "Cap概念329说明",
+    "category": "Capstone",
+    "tags": [
+      "Capstone"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-glossary-331",
+    "term": "Cap概念330",
+    "definition": "Cap概念330说明",
+    "category": "Capstone",
+    "tags": [
+      "Capstone"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-glossary-332",
+    "term": "Cap概念331",
+    "definition": "Cap概念331说明",
+    "category": "Capstone",
+    "tags": [
+      "Capstone"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-glossary-333",
+    "term": "Cap概念332",
+    "definition": "Cap概念332说明",
+    "category": "Capstone",
+    "tags": [
+      "Capstone"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-glossary-334",
+    "term": "Cap概念333",
+    "definition": "Cap概念333说明",
+    "category": "Capstone",
+    "tags": [
+      "Capstone"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-glossary-335",
+    "term": "Cap概念334",
+    "definition": "Cap概念334说明",
+    "category": "Capstone",
+    "tags": [
+      "Capstone"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-glossary-336",
+    "term": "Cap概念335",
+    "definition": "Cap概念335说明",
+    "category": "Capstone",
+    "tags": [
+      "Capstone"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-glossary-337",
+    "term": "Cap概念336",
+    "definition": "Cap概念336说明",
+    "category": "Capstone",
+    "tags": [
+      "Capstone"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-glossary-338",
+    "term": "Cap概念337",
+    "definition": "Cap概念337说明",
+    "category": "Capstone",
+    "tags": [
+      "Capstone"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-glossary-339",
+    "term": "Cap概念338",
+    "definition": "Cap概念338说明",
+    "category": "Capstone",
+    "tags": [
+      "Capstone"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-glossary-340",
+    "term": "Cap概念339",
+    "definition": "Cap概念339说明",
+    "category": "Capstone",
+    "tags": [
+      "Capstone"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-glossary-341",
+    "term": "Cap概念340",
+    "definition": "Cap概念340说明",
+    "category": "Capstone",
+    "tags": [
+      "Capstone"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-glossary-342",
+    "term": "Cap概念341",
+    "definition": "Cap概念341说明",
+    "category": "Capstone",
+    "tags": [
+      "Capstone"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-glossary-343",
+    "term": "Cap概念342",
+    "definition": "Cap概念342说明",
+    "category": "Capstone",
+    "tags": [
+      "Capstone"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-glossary-344",
+    "term": "Cap概念343",
+    "definition": "Cap概念343说明",
+    "category": "Capstone",
+    "tags": [
+      "Capstone"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-glossary-345",
+    "term": "Cap概念344",
+    "definition": "Cap概念344说明",
+    "category": "Capstone",
+    "tags": [
+      "Capstone"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-glossary-346",
+    "term": "Cap概念345",
+    "definition": "Cap概念345说明",
+    "category": "Capstone",
+    "tags": [
+      "Capstone"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-glossary-347",
+    "term": "Cap概念346",
+    "definition": "Cap概念346说明",
+    "category": "Capstone",
+    "tags": [
+      "Capstone"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-glossary-348",
+    "term": "Cap概念347",
+    "definition": "Cap概念347说明",
+    "category": "Capstone",
+    "tags": [
+      "Capstone"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-glossary-349",
+    "term": "Cap概念348",
+    "definition": "Cap概念348说明",
+    "category": "Capstone",
+    "tags": [
+      "Capstone"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-glossary-350",
+    "term": "Cap概念349",
+    "definition": "Cap概念349说明",
+    "category": "Capstone",
+    "tags": [
+      "Capstone"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-glossary-351",
+    "term": "Cap概念350",
+    "definition": "Cap概念350说明",
+    "category": "Capstone",
+    "tags": [
+      "Capstone"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-glossary-352",
+    "term": "Cap概念351",
+    "definition": "Cap概念351说明",
+    "category": "Capstone",
+    "tags": [
+      "Capstone"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-glossary-353",
+    "term": "Cap概念352",
+    "definition": "Cap概念352说明",
+    "category": "Capstone",
+    "tags": [
+      "Capstone"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-glossary-354",
+    "term": "Cap概念353",
+    "definition": "Cap概念353说明",
+    "category": "Capstone",
+    "tags": [
+      "Capstone"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-glossary-355",
+    "term": "Cap概念354",
+    "definition": "Cap概念354说明",
+    "category": "Capstone",
+    "tags": [
+      "Capstone"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-glossary-356",
+    "term": "Cap概念355",
+    "definition": "Cap概念355说明",
+    "category": "Capstone",
+    "tags": [
+      "Capstone"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-glossary-357",
+    "term": "Cap概念356",
+    "definition": "Cap概念356说明",
+    "category": "Capstone",
+    "tags": [
+      "Capstone"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-glossary-358",
+    "term": "Cap概念357",
+    "definition": "Cap概念357说明",
+    "category": "Capstone",
+    "tags": [
+      "Capstone"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-glossary-359",
+    "term": "Cap概念358",
+    "definition": "Cap概念358说明",
+    "category": "Capstone",
+    "tags": [
+      "Capstone"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-glossary-360",
+    "term": "Cap概念359",
+    "definition": "Cap概念359说明",
+    "category": "Capstone",
+    "tags": [
+      "Capstone"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  }
+]

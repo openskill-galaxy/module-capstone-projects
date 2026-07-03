@@ -1,0 +1,41 @@
+{
+  "id": "mod-capstone-projects",
+  "slug": "module-capstone-projects",
+  "title": "综合项目实战与毕业作品",
+  "subtitle": "面向综合项目实践者",
+  "description": "面向综合项目学习者的项目选题需求分析技术选型架构设计前后端实现AI应用测试部署文档写作作品集包装与毕业设计交付训练。",
+  "version": "2.0.0",
+  "license": "MIT",
+  "authors": [
+    "OpenSkill Community"
+  ],
+  "tags": [
+    "综合项目",
+    "毕业设计",
+    "课程设计",
+    "作品集",
+    "项目实战",
+    "技术选型",
+    "部署上线",
+    "项目答辩"
+  ],
+  "estimatedHours": 200,
+  "difficulty": "advanced",
+  "updatedAt": "2026-07-03T00:00:00.000Z",
+  "coverEmoji": "🏭",
+  "repoUrl": "https://github.com/openskill-galaxy/module-capstone-projects",
+  "portalUrl": "https://openskill-galaxy.github.io/",
+  "status": "stable",
+  "stats": {
+    "courses": 14,
+    "lessons": 182,
+    "knowledgePoints": 735,
+    "questions": 3500,
+    "cases": 260,
+    "exams": 100,
+    "routes": 35,
+    "glossary": 360,
+    "faqs": 210,
+    "tags": 142
+  }
+}
